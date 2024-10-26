@@ -373,14 +373,14 @@ resulting:11
 ways:11
 nearly:11
 carpenter:11
-carpenter	boeing:9
-carpenter	boeing	recommend:9
 carpenter	offer:9
 recommend	carpenter	offer:9
 carpenter	recommendations:9
 recommend	carpenter	recommendations:9
 offer	carpenter	recommendations:9
 recommend	offer	carpenter	recommendations:9
+carpenter	boeing:9
+carpenter	boeing	recommend:9
 carpenter	recommend:11
 shape:11
 alt:11
