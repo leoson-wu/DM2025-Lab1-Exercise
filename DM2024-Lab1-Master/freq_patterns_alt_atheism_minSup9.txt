@@ -1,0 +1,4628 @@
+choices:9
+corp:9
+hausmann:9
+hausmann	maddi:9
+kids:9
+ccit:9
+ccit	james:9
+ccit	arizona:9
+james	ccit	arizona:9
+lippard:9
+lippard	james:9
+lippard	arizona:9
+james	lippard	arizona:9
+lippard	ccit:9
+james	lippard	ccit:9
+arizona	lippard	ccit:9
+james	arizona	lippard	ccit:9
+jyusenkyou:9
+jyusenkyou	ken:9
+jyusenkyou	jhu:9
+ken	jyusenkyou	jhu:9
+jyusenkyou	arromdee:9
+ken	jyusenkyou	arromdee:9
+jhu	jyusenkyou	arromdee:9
+ken	jhu	jyusenkyou	arromdee:9
+cash:9
+hq:9
+addition:9
+confusing:9
+favorite:9
+prime:9
+referred:9
+similarly:9
+towards:9
+leaving:9
+applicable:9
+applied:9
+hands:9
+itd:9
+mil:9
+mil	navy:9
+price:9
+regarding:9
+scholars:9
+umar:9
+umar	khan:9
+total:9
+v1:9
+v1	rusnews:9
+v1	cambridge:9
+rusnews	v1	cambridge:9
+v1	consultants:9
+rusnews	v1	consultants:9
+cambridge	v1	consultants:9
+rusnews	cambridge	v1	consultants:9
+v1	01:9
+rusnews	v1	01:9
+cambridge	v1	01:9
+consultants	v1	01:9
+rusnews	cambridge	v1	01:9
+rusnews	consultants	v1	01:9
+cambridge	consultants	v1	01:9
+rusnews	cambridge	consultants	v1	01:9
+honest:9
+iii:9
+names:9
+stronger:9
+pa:9
+chimps:9
+slavery:9
+access:9
+relationship:9
+clark:9
+driving:9
+healed:9
+healed	lie:9
+healed	seeing:9
+lie	healed	seeing:9
+isaiah:9
+nazi:9
+piece:9
+psalms:9
+decides:9
+highly:9
+living:9
+included:9
+behind:9
+commonly:9
+con:9
+pro:9
+cost:9
+execution:9
+happiness:9
+liberty:9
+mccullou:9
+violation:9
+wisc:9
+wisc	mccullou:9
+appropriate:9
+fight:9
+ray:9
+constructing:9
+figure:9
+followers:9
+section:9
+introduced:9
+portion:9
+watch:9
+measure:9
+programs:9
+unknown:9
+benefit:9
+parts:9
+peter:9
+127:9
+127	date:9
+127	psilink:9
+date	127	psilink:9
+127	knowles:9
+date	127	knowles:9
+psilink	127	knowles:9
+date	psilink	127	knowles:9
+127	p00261:9
+date	127	p00261:9
+psilink	127	p00261:9
+knowles	127	p00261:9
+date	psilink	127	p00261:9
+date	knowles	127	p00261:9
+psilink	knowles	127	p00261:9
+date	psilink	knowles	127	p00261:9
+127	dos:9
+date	127	dos:9
+psilink	127	dos:9
+knowles	127	dos:9
+p00261	127	dos:9
+date	psilink	127	dos:9
+date	knowles	127	dos:9
+date	p00261	127	dos:9
+psilink	knowles	127	dos:9
+psilink	p00261	127	dos:9
+knowles	p00261	127	dos:9
+date	psilink	knowles	127	dos:9
+date	psilink	p00261	127	dos:9
+date	knowles	p00261	127	dos:9
+psilink	knowles	p00261	127	dos:9
+date	psilink	knowles	p00261	127	dos:9
+127	mailer:9
+date	127	mailer:9
+psilink	127	mailer:9
+knowles	127	mailer:9
+p00261	127	mailer:9
+dos	127	mailer:9
+date	psilink	127	mailer:9
+date	knowles	127	mailer:9
+date	p00261	127	mailer:9
+date	dos	127	mailer:9
+psilink	knowles	127	mailer:9
+psilink	p00261	127	mailer:9
+psilink	dos	127	mailer:9
+knowles	p00261	127	mailer:9
+knowles	dos	127	mailer:9
+p00261	dos	127	mailer:9
+date	psilink	knowles	127	mailer:9
+date	psilink	p00261	127	mailer:9
+date	psilink	dos	127	mailer:9
+date	knowles	p00261	127	mailer:9
+date	knowles	dos	127	mailer:9
+date	p00261	dos	127	mailer:9
+psilink	knowles	p00261	127	mailer:9
+psilink	knowles	dos	127	mailer:9
+psilink	p00261	dos	127	mailer:9
+knowles	p00261	dos	127	mailer:9
+date	psilink	knowles	p00261	127	mailer:9
+date	psilink	knowles	dos	127	mailer:9
+date	psilink	p00261	dos	127	mailer:9
+date	knowles	p00261	dos	127	mailer:9
+psilink	knowles	p00261	dos	127	mailer:9
+date	psilink	knowles	p00261	dos	127	mailer:9
+contribute:9
+eyes:9
+krakatoa:9
+krakatoa	date:9
+krakatoa	psilink:9
+date	krakatoa	psilink:9
+krakatoa	knowles:9
+date	krakatoa	knowles:9
+psilink	krakatoa	knowles:9
+date	psilink	krakatoa	knowles:9
+krakatoa	p00261:9
+date	krakatoa	p00261:9
+psilink	krakatoa	p00261:9
+knowles	krakatoa	p00261:9
+date	psilink	krakatoa	p00261:9
+date	knowles	krakatoa	p00261:9
+psilink	knowles	krakatoa	p00261:9
+date	psilink	knowles	krakatoa	p00261:9
+krakatoa	dos:9
+date	krakatoa	dos:9
+psilink	krakatoa	dos:9
+knowles	krakatoa	dos:9
+p00261	krakatoa	dos:9
+date	psilink	krakatoa	dos:9
+date	knowles	krakatoa	dos:9
+date	p00261	krakatoa	dos:9
+psilink	knowles	krakatoa	dos:9
+psilink	p00261	krakatoa	dos:9
+knowles	p00261	krakatoa	dos:9
+date	psilink	knowles	krakatoa	dos:9
+date	psilink	p00261	krakatoa	dos:9
+date	knowles	p00261	krakatoa	dos:9
+psilink	knowles	p00261	krakatoa	dos:9
+date	psilink	knowles	p00261	krakatoa	dos:9
+krakatoa	mailer:9
+date	krakatoa	mailer:9
+psilink	krakatoa	mailer:9
+knowles	krakatoa	mailer:9
+p00261	krakatoa	mailer:9
+dos	krakatoa	mailer:9
+date	psilink	krakatoa	mailer:9
+date	knowles	krakatoa	mailer:9
+date	p00261	krakatoa	mailer:9
+date	dos	krakatoa	mailer:9
+psilink	knowles	krakatoa	mailer:9
+psilink	p00261	krakatoa	mailer:9
+psilink	dos	krakatoa	mailer:9
+knowles	p00261	krakatoa	mailer:9
+knowles	dos	krakatoa	mailer:9
+p00261	dos	krakatoa	mailer:9
+date	psilink	knowles	krakatoa	mailer:9
+date	psilink	p00261	krakatoa	mailer:9
+date	psilink	dos	krakatoa	mailer:9
+date	knowles	p00261	krakatoa	mailer:9
+date	knowles	dos	krakatoa	mailer:9
+date	p00261	dos	krakatoa	mailer:9
+psilink	knowles	p00261	krakatoa	mailer:9
+psilink	knowles	dos	krakatoa	mailer:9
+psilink	p00261	dos	krakatoa	mailer:9
+knowles	p00261	dos	krakatoa	mailer:9
+date	psilink	knowles	p00261	krakatoa	mailer:9
+date	psilink	knowles	dos	krakatoa	mailer:9
+date	psilink	p00261	dos	krakatoa	mailer:9
+date	knowles	p00261	dos	krakatoa	mailer:9
+psilink	knowles	p00261	dos	krakatoa	mailer:9
+date	psilink	knowles	p00261	dos	krakatoa	mailer:9
+krakatoa	127:9
+date	krakatoa	127:9
+psilink	krakatoa	127:9
+knowles	krakatoa	127:9
+p00261	krakatoa	127:9
+dos	krakatoa	127:9
+mailer	krakatoa	127:9
+date	psilink	krakatoa	127:9
+date	knowles	krakatoa	127:9
+date	p00261	krakatoa	127:9
+date	dos	krakatoa	127:9
+date	mailer	krakatoa	127:9
+psilink	knowles	krakatoa	127:9
+psilink	p00261	krakatoa	127:9
+psilink	dos	krakatoa	127:9
+psilink	mailer	krakatoa	127:9
+knowles	p00261	krakatoa	127:9
+knowles	dos	krakatoa	127:9
+knowles	mailer	krakatoa	127:9
+p00261	dos	krakatoa	127:9
+p00261	mailer	krakatoa	127:9
+dos	mailer	krakatoa	127:9
+date	psilink	knowles	krakatoa	127:9
+date	psilink	p00261	krakatoa	127:9
+date	psilink	dos	krakatoa	127:9
+date	psilink	mailer	krakatoa	127:9
+date	knowles	p00261	krakatoa	127:9
+date	knowles	dos	krakatoa	127:9
+date	knowles	mailer	krakatoa	127:9
+date	p00261	dos	krakatoa	127:9
+date	p00261	mailer	krakatoa	127:9
+date	dos	mailer	krakatoa	127:9
+psilink	knowles	p00261	krakatoa	127:9
+psilink	knowles	dos	krakatoa	127:9
+psilink	knowles	mailer	krakatoa	127:9
+psilink	p00261	dos	krakatoa	127:9
+psilink	p00261	mailer	krakatoa	127:9
+psilink	dos	mailer	krakatoa	127:9
+knowles	p00261	dos	krakatoa	127:9
+knowles	p00261	mailer	krakatoa	127:9
+knowles	dos	mailer	krakatoa	127:9
+p00261	dos	mailer	krakatoa	127:9
+date	psilink	knowles	p00261	krakatoa	127:9
+date	psilink	knowles	dos	krakatoa	127:9
+date	psilink	knowles	mailer	krakatoa	127:9
+date	psilink	p00261	dos	krakatoa	127:9
+date	psilink	p00261	mailer	krakatoa	127:9
+date	psilink	dos	mailer	krakatoa	127:9
+date	knowles	p00261	dos	krakatoa	127:9
+date	knowles	p00261	mailer	krakatoa	127:9
+date	knowles	dos	mailer	krakatoa	127:9
+date	p00261	dos	mailer	krakatoa	127:9
+psilink	knowles	p00261	dos	krakatoa	127:9
+psilink	knowles	p00261	mailer	krakatoa	127:9
+psilink	knowles	dos	mailer	krakatoa	127:9
+psilink	p00261	dos	mailer	krakatoa	127:9
+knowles	p00261	dos	mailer	krakatoa	127:9
+date	psilink	knowles	p00261	dos	krakatoa	127:9
+date	psilink	knowles	p00261	mailer	krakatoa	127:9
+date	psilink	knowles	dos	mailer	krakatoa	127:9
+date	psilink	p00261	dos	mailer	krakatoa	127:9
+date	knowles	p00261	dos	mailer	krakatoa	127:9
+psilink	knowles	p00261	dos	mailer	krakatoa	127:9
+date	psilink	knowles	p00261	dos	mailer	krakatoa	127:9
+kupajava:9
+kupajava	date:9
+kupajava	psilink:9
+date	kupajava	psilink:9
+kupajava	knowles:9
+date	kupajava	knowles:9
+psilink	kupajava	knowles:9
+date	psilink	kupajava	knowles:9
+kupajava	p00261:9
+date	kupajava	p00261:9
+psilink	kupajava	p00261:9
+knowles	kupajava	p00261:9
+date	psilink	kupajava	p00261:9
+date	knowles	kupajava	p00261:9
+psilink	knowles	kupajava	p00261:9
+date	psilink	knowles	kupajava	p00261:9
+kupajava	dos:9
+date	kupajava	dos:9
+psilink	kupajava	dos:9
+knowles	kupajava	dos:9
+p00261	kupajava	dos:9
+date	psilink	kupajava	dos:9
+date	knowles	kupajava	dos:9
+date	p00261	kupajava	dos:9
+psilink	knowles	kupajava	dos:9
+psilink	p00261	kupajava	dos:9
+knowles	p00261	kupajava	dos:9
+date	psilink	knowles	kupajava	dos:9
+date	psilink	p00261	kupajava	dos:9
+date	knowles	p00261	kupajava	dos:9
+psilink	knowles	p00261	kupajava	dos:9
+date	psilink	knowles	p00261	kupajava	dos:9
+kupajava	mailer:9
+date	kupajava	mailer:9
+psilink	kupajava	mailer:9
+knowles	kupajava	mailer:9
+p00261	kupajava	mailer:9
+dos	kupajava	mailer:9
+date	psilink	kupajava	mailer:9
+date	knowles	kupajava	mailer:9
+date	p00261	kupajava	mailer:9
+date	dos	kupajava	mailer:9
+psilink	knowles	kupajava	mailer:9
+psilink	p00261	kupajava	mailer:9
+psilink	dos	kupajava	mailer:9
+knowles	p00261	kupajava	mailer:9
+knowles	dos	kupajava	mailer:9
+p00261	dos	kupajava	mailer:9
+date	psilink	knowles	kupajava	mailer:9
+date	psilink	p00261	kupajava	mailer:9
+date	psilink	dos	kupajava	mailer:9
+date	knowles	p00261	kupajava	mailer:9
+date	knowles	dos	kupajava	mailer:9
+date	p00261	dos	kupajava	mailer:9
+psilink	knowles	p00261	kupajava	mailer:9
+psilink	knowles	dos	kupajava	mailer:9
+psilink	p00261	dos	kupajava	mailer:9
+knowles	p00261	dos	kupajava	mailer:9
+date	psilink	knowles	p00261	kupajava	mailer:9
+date	psilink	knowles	dos	kupajava	mailer:9
+date	psilink	p00261	dos	kupajava	mailer:9
+date	knowles	p00261	dos	kupajava	mailer:9
+psilink	knowles	p00261	dos	kupajava	mailer:9
+date	psilink	knowles	p00261	dos	kupajava	mailer:9
+kupajava	127:9
+date	kupajava	127:9
+psilink	kupajava	127:9
+knowles	kupajava	127:9
+p00261	kupajava	127:9
+dos	kupajava	127:9
+mailer	kupajava	127:9
+date	psilink	kupajava	127:9
+date	knowles	kupajava	127:9
+date	p00261	kupajava	127:9
+date	dos	kupajava	127:9
+date	mailer	kupajava	127:9
+psilink	knowles	kupajava	127:9
+psilink	p00261	kupajava	127:9
+psilink	dos	kupajava	127:9
+psilink	mailer	kupajava	127:9
+knowles	p00261	kupajava	127:9
+knowles	dos	kupajava	127:9
+knowles	mailer	kupajava	127:9
+p00261	dos	kupajava	127:9
+p00261	mailer	kupajava	127:9
+dos	mailer	kupajava	127:9
+date	psilink	knowles	kupajava	127:9
+date	psilink	p00261	kupajava	127:9
+date	psilink	dos	kupajava	127:9
+date	psilink	mailer	kupajava	127:9
+date	knowles	p00261	kupajava	127:9
+date	knowles	dos	kupajava	127:9
+date	knowles	mailer	kupajava	127:9
+date	p00261	dos	kupajava	127:9
+date	p00261	mailer	kupajava	127:9
+date	dos	mailer	kupajava	127:9
+psilink	knowles	p00261	kupajava	127:9
+psilink	knowles	dos	kupajava	127:9
+psilink	knowles	mailer	kupajava	127:9
+psilink	p00261	dos	kupajava	127:9
+psilink	p00261	mailer	kupajava	127:9
+psilink	dos	mailer	kupajava	127:9
+knowles	p00261	dos	kupajava	127:9
+knowles	p00261	mailer	kupajava	127:9
+knowles	dos	mailer	kupajava	127:9
+p00261	dos	mailer	kupajava	127:9
+date	psilink	knowles	p00261	kupajava	127:9
+date	psilink	knowles	dos	kupajava	127:9
+date	psilink	knowles	mailer	kupajava	127:9
+date	psilink	p00261	dos	kupajava	127:9
+date	psilink	p00261	mailer	kupajava	127:9
+date	psilink	dos	mailer	kupajava	127:9
+date	knowles	p00261	dos	kupajava	127:9
+date	knowles	p00261	mailer	kupajava	127:9
+date	knowles	dos	mailer	kupajava	127:9
+date	p00261	dos	mailer	kupajava	127:9
+psilink	knowles	p00261	dos	kupajava	127:9
+psilink	knowles	p00261	mailer	kupajava	127:9
+psilink	knowles	dos	mailer	kupajava	127:9
+psilink	p00261	dos	mailer	kupajava	127:9
+knowles	p00261	dos	mailer	kupajava	127:9
+date	psilink	knowles	p00261	dos	kupajava	127:9
+date	psilink	knowles	p00261	mailer	kupajava	127:9
+date	psilink	knowles	dos	mailer	kupajava	127:9
+date	psilink	p00261	dos	mailer	kupajava	127:9
+date	knowles	p00261	dos	mailer	kupajava	127:9
+psilink	knowles	p00261	dos	mailer	kupajava	127:9
+date	psilink	knowles	p00261	dos	mailer	kupajava	127:9
+kupajava	krakatoa:9
+date	kupajava	krakatoa:9
+psilink	kupajava	krakatoa:9
+knowles	kupajava	krakatoa:9
+p00261	kupajava	krakatoa:9
+dos	kupajava	krakatoa:9
+mailer	kupajava	krakatoa:9
+127	kupajava	krakatoa:9
+date	psilink	kupajava	krakatoa:9
+date	knowles	kupajava	krakatoa:9
+date	p00261	kupajava	krakatoa:9
+date	dos	kupajava	krakatoa:9
+date	mailer	kupajava	krakatoa:9
+date	127	kupajava	krakatoa:9
+psilink	knowles	kupajava	krakatoa:9
+psilink	p00261	kupajava	krakatoa:9
+psilink	dos	kupajava	krakatoa:9
+psilink	mailer	kupajava	krakatoa:9
+psilink	127	kupajava	krakatoa:9
+knowles	p00261	kupajava	krakatoa:9
+knowles	dos	kupajava	krakatoa:9
+knowles	mailer	kupajava	krakatoa:9
+knowles	127	kupajava	krakatoa:9
+p00261	dos	kupajava	krakatoa:9
+p00261	mailer	kupajava	krakatoa:9
+p00261	127	kupajava	krakatoa:9
+dos	mailer	kupajava	krakatoa:9
+dos	127	kupajava	krakatoa:9
+mailer	127	kupajava	krakatoa:9
+date	psilink	knowles	kupajava	krakatoa:9
+date	psilink	p00261	kupajava	krakatoa:9
+date	psilink	dos	kupajava	krakatoa:9
+date	psilink	mailer	kupajava	krakatoa:9
+date	psilink	127	kupajava	krakatoa:9
+date	knowles	p00261	kupajava	krakatoa:9
+date	knowles	dos	kupajava	krakatoa:9
+date	knowles	mailer	kupajava	krakatoa:9
+date	knowles	127	kupajava	krakatoa:9
+date	p00261	dos	kupajava	krakatoa:9
+date	p00261	mailer	kupajava	krakatoa:9
+date	p00261	127	kupajava	krakatoa:9
+date	dos	mailer	kupajava	krakatoa:9
+date	dos	127	kupajava	krakatoa:9
+date	mailer	127	kupajava	krakatoa:9
+psilink	knowles	p00261	kupajava	krakatoa:9
+psilink	knowles	dos	kupajava	krakatoa:9
+psilink	knowles	mailer	kupajava	krakatoa:9
+psilink	knowles	127	kupajava	krakatoa:9
+psilink	p00261	dos	kupajava	krakatoa:9
+psilink	p00261	mailer	kupajava	krakatoa:9
+psilink	p00261	127	kupajava	krakatoa:9
+psilink	dos	mailer	kupajava	krakatoa:9
+psilink	dos	127	kupajava	krakatoa:9
+psilink	mailer	127	kupajava	krakatoa:9
+knowles	p00261	dos	kupajava	krakatoa:9
+knowles	p00261	mailer	kupajava	krakatoa:9
+knowles	p00261	127	kupajava	krakatoa:9
+knowles	dos	mailer	kupajava	krakatoa:9
+knowles	dos	127	kupajava	krakatoa:9
+knowles	mailer	127	kupajava	krakatoa:9
+p00261	dos	mailer	kupajava	krakatoa:9
+p00261	dos	127	kupajava	krakatoa:9
+p00261	mailer	127	kupajava	krakatoa:9
+dos	mailer	127	kupajava	krakatoa:9
+date	psilink	knowles	p00261	kupajava	krakatoa:9
+date	psilink	knowles	dos	kupajava	krakatoa:9
+date	psilink	knowles	mailer	kupajava	krakatoa:9
+date	psilink	knowles	127	kupajava	krakatoa:9
+date	psilink	p00261	dos	kupajava	krakatoa:9
+date	psilink	p00261	mailer	kupajava	krakatoa:9
+date	psilink	p00261	127	kupajava	krakatoa:9
+date	psilink	dos	mailer	kupajava	krakatoa:9
+date	psilink	dos	127	kupajava	krakatoa:9
+date	psilink	mailer	127	kupajava	krakatoa:9
+date	knowles	p00261	dos	kupajava	krakatoa:9
+date	knowles	p00261	mailer	kupajava	krakatoa:9
+date	knowles	p00261	127	kupajava	krakatoa:9
+date	knowles	dos	mailer	kupajava	krakatoa:9
+date	knowles	dos	127	kupajava	krakatoa:9
+date	knowles	mailer	127	kupajava	krakatoa:9
+date	p00261	dos	mailer	kupajava	krakatoa:9
+date	p00261	dos	127	kupajava	krakatoa:9
+date	p00261	mailer	127	kupajava	krakatoa:9
+date	dos	mailer	127	kupajava	krakatoa:9
+psilink	knowles	p00261	dos	kupajava	krakatoa:9
+psilink	knowles	p00261	mailer	kupajava	krakatoa:9
+psilink	knowles	p00261	127	kupajava	krakatoa:9
+psilink	knowles	dos	mailer	kupajava	krakatoa:9
+psilink	knowles	dos	127	kupajava	krakatoa:9
+psilink	knowles	mailer	127	kupajava	krakatoa:9
+psilink	p00261	dos	mailer	kupajava	krakatoa:9
+psilink	p00261	dos	127	kupajava	krakatoa:9
+psilink	p00261	mailer	127	kupajava	krakatoa:9
+psilink	dos	mailer	127	kupajava	krakatoa:9
+knowles	p00261	dos	mailer	kupajava	krakatoa:9
+knowles	p00261	dos	127	kupajava	krakatoa:9
+knowles	p00261	mailer	127	kupajava	krakatoa:9
+knowles	dos	mailer	127	kupajava	krakatoa:9
+p00261	dos	mailer	127	kupajava	krakatoa:9
+date	psilink	knowles	p00261	dos	kupajava	krakatoa:9
+date	psilink	knowles	p00261	mailer	kupajava	krakatoa:9
+date	psilink	knowles	p00261	127	kupajava	krakatoa:9
+date	psilink	knowles	dos	mailer	kupajava	krakatoa:9
+date	psilink	knowles	dos	127	kupajava	krakatoa:9
+date	psilink	knowles	mailer	127	kupajava	krakatoa:9
+date	psilink	p00261	dos	mailer	kupajava	krakatoa:9
+date	psilink	p00261	dos	127	kupajava	krakatoa:9
+date	psilink	p00261	mailer	127	kupajava	krakatoa:9
+date	psilink	dos	mailer	127	kupajava	krakatoa:9
+date	knowles	p00261	dos	mailer	kupajava	krakatoa:9
+date	knowles	p00261	dos	127	kupajava	krakatoa:9
+date	knowles	p00261	mailer	127	kupajava	krakatoa:9
+date	knowles	dos	mailer	127	kupajava	krakatoa:9
+date	p00261	dos	mailer	127	kupajava	krakatoa:9
+psilink	knowles	p00261	dos	mailer	kupajava	krakatoa:9
+psilink	knowles	p00261	dos	127	kupajava	krakatoa:9
+psilink	knowles	p00261	mailer	127	kupajava	krakatoa:9
+psilink	knowles	dos	mailer	127	kupajava	krakatoa:9
+psilink	p00261	dos	mailer	127	kupajava	krakatoa:9
+knowles	p00261	dos	mailer	127	kupajava	krakatoa:9
+date	psilink	knowles	p00261	dos	mailer	kupajava	krakatoa:9
+date	psilink	knowles	p00261	dos	127	kupajava	krakatoa:9
+date	psilink	knowles	p00261	mailer	127	kupajava	krakatoa:9
+date	psilink	knowles	dos	mailer	127	kupajava	krakatoa:9
+date	psilink	p00261	dos	mailer	127	kupajava	krakatoa:9
+date	knowles	p00261	dos	mailer	127	kupajava	krakatoa:9
+psilink	knowles	p00261	dos	mailer	127	kupajava	krakatoa:9
+date	psilink	knowles	p00261	dos	mailer	127	kupajava	krakatoa:9
+supports:9
+virtue:9
+age:9
+box:9
+hey:9
+plenty:9
+rush:9
+bank:9
+ohio:9
+foundation:9
+united:9
+constant:9
+whom:9
+apologize:9
+cross:9
+pretend:9
+rational:9
+went:9
+conclusions:9
+generation:9
+party:9
+contradicts:9
+phenomenon:9
+wam:9
+wam	west:9
+deep:9
+deletions:9
+mostly:9
+definitely:9
+april:9
+thrown:9
+extent:9
+unable:9
+approach:9
+dictionary:9
+four:9
+satanic:9
+organizations:9
+mankind:9
+provided:9
+heart:9
+traditional:9
+ah:9
+deny:9
+exact:9
+finds:9
+patrick:9
+shit:9
+existed:9
+ought:9
+weeks:9
+friends:9
+canada:9
+abo:9
+andtbacka:9
+andtbacka	abo:9
+finabo:9
+finabo	abo:9
+finabo	andtbacka:9
+abo	finabo	andtbacka:9
+mandtbacka:9
+mandtbacka	abo:9
+mandtbacka	andtbacka:9
+abo	mandtbacka	andtbacka:9
+mandtbacka	finabo:9
+abo	mandtbacka	finabo:9
+andtbacka	mandtbacka	finabo:9
+abo	andtbacka	mandtbacka	finabo:9
+mats:9
+mats	abo:9
+mats	andtbacka:9
+abo	mats	andtbacka:9
+mats	finabo:9
+abo	mats	finabo:9
+andtbacka	mats	finabo:9
+abo	andtbacka	mats	finabo:9
+mats	mandtbacka:9
+abo	mats	mandtbacka:9
+andtbacka	mats	mandtbacka:9
+finabo	mats	mandtbacka:9
+abo	andtbacka	mats	mandtbacka:9
+abo	finabo	mats	mandtbacka:9
+andtbacka	finabo	mats	mandtbacka:9
+abo	andtbacka	finabo	mats	mandtbacka:9
+reader:9
+funds:9
+funds	soc:9
+funds	princeton:9
+soc	funds	princeton:9
+funds	al:9
+soc	funds	al:9
+princeton	funds	al:9
+soc	princeton	funds	al:9
+funds	et:9
+soc	funds	et:9
+princeton	funds	et:9
+al	funds	et:9
+soc	princeton	funds	et:9
+soc	al	funds	et:9
+princeton	al	funds	et:9
+soc	princeton	al	funds	et:9
+funds	boy:9
+soc	funds	boy:9
+princeton	funds	boy:9
+al	funds	boy:9
+et	funds	boy:9
+soc	princeton	funds	boy:9
+soc	al	funds	boy:9
+soc	et	funds	boy:9
+princeton	al	funds	boy:9
+princeton	et	funds	boy:9
+al	et	funds	boy:9
+soc	princeton	al	funds	boy:9
+soc	princeton	et	funds	boy:9
+soc	al	et	funds	boy:9
+princeton	al	et	funds	boy:9
+soc	princeton	al	et	funds	boy:9
+funds	axes:9
+soc	funds	axes:9
+princeton	funds	axes:9
+al	funds	axes:9
+et	funds	axes:9
+boy	funds	axes:9
+soc	princeton	funds	axes:9
+soc	al	funds	axes:9
+soc	et	funds	axes:9
+soc	boy	funds	axes:9
+princeton	al	funds	axes:9
+princeton	et	funds	axes:9
+princeton	boy	funds	axes:9
+al	et	funds	axes:9
+al	boy	funds	axes:9
+et	boy	funds	axes:9
+soc	princeton	al	funds	axes:9
+soc	princeton	et	funds	axes:9
+soc	princeton	boy	funds	axes:9
+soc	al	et	funds	axes:9
+soc	al	boy	funds	axes:9
+soc	et	boy	funds	axes:9
+princeton	al	et	funds	axes:9
+princeton	al	boy	funds	axes:9
+princeton	et	boy	funds	axes:9
+al	et	boy	funds	axes:9
+soc	princeton	al	et	funds	axes:9
+soc	princeton	al	boy	funds	axes:9
+soc	princeton	et	boy	funds	axes:9
+soc	al	et	boy	funds	axes:9
+princeton	al	et	boy	funds	axes:9
+soc	princeton	al	et	boy	funds	axes:9
+matching:9
+matching	soc:9
+matching	princeton:9
+soc	matching	princeton:9
+matching	al:9
+soc	matching	al:9
+princeton	matching	al:9
+soc	princeton	matching	al:9
+matching	et:9
+soc	matching	et:9
+princeton	matching	et:9
+al	matching	et:9
+soc	princeton	matching	et:9
+soc	al	matching	et:9
+princeton	al	matching	et:9
+soc	princeton	al	matching	et:9
+matching	boy:9
+soc	matching	boy:9
+princeton	matching	boy:9
+al	matching	boy:9
+et	matching	boy:9
+soc	princeton	matching	boy:9
+soc	al	matching	boy:9
+soc	et	matching	boy:9
+princeton	al	matching	boy:9
+princeton	et	matching	boy:9
+al	et	matching	boy:9
+soc	princeton	al	matching	boy:9
+soc	princeton	et	matching	boy:9
+soc	al	et	matching	boy:9
+princeton	al	et	matching	boy:9
+soc	princeton	al	et	matching	boy:9
+matching	axes:9
+soc	matching	axes:9
+princeton	matching	axes:9
+al	matching	axes:9
+et	matching	axes:9
+boy	matching	axes:9
+soc	princeton	matching	axes:9
+soc	al	matching	axes:9
+soc	et	matching	axes:9
+soc	boy	matching	axes:9
+princeton	al	matching	axes:9
+princeton	et	matching	axes:9
+princeton	boy	matching	axes:9
+al	et	matching	axes:9
+al	boy	matching	axes:9
+et	boy	matching	axes:9
+soc	princeton	al	matching	axes:9
+soc	princeton	et	matching	axes:9
+soc	princeton	boy	matching	axes:9
+soc	al	et	matching	axes:9
+soc	al	boy	matching	axes:9
+soc	et	boy	matching	axes:9
+princeton	al	et	matching	axes:9
+princeton	al	boy	matching	axes:9
+princeton	et	boy	matching	axes:9
+al	et	boy	matching	axes:9
+soc	princeton	al	et	matching	axes:9
+soc	princeton	al	boy	matching	axes:9
+soc	princeton	et	boy	matching	axes:9
+soc	al	et	boy	matching	axes:9
+princeton	al	et	boy	matching	axes:9
+soc	princeton	al	et	boy	matching	axes:9
+matching	funds:9
+soc	matching	funds:9
+princeton	matching	funds:9
+al	matching	funds:9
+et	matching	funds:9
+boy	matching	funds:9
+axes	matching	funds:9
+soc	princeton	matching	funds:9
+soc	al	matching	funds:9
+soc	et	matching	funds:9
+soc	boy	matching	funds:9
+soc	axes	matching	funds:9
+princeton	al	matching	funds:9
+princeton	et	matching	funds:9
+princeton	boy	matching	funds:9
+princeton	axes	matching	funds:9
+al	et	matching	funds:9
+al	boy	matching	funds:9
+al	axes	matching	funds:9
+et	boy	matching	funds:9
+et	axes	matching	funds:9
+boy	axes	matching	funds:9
+soc	princeton	al	matching	funds:9
+soc	princeton	et	matching	funds:9
+soc	princeton	boy	matching	funds:9
+soc	princeton	axes	matching	funds:9
+soc	al	et	matching	funds:9
+soc	al	boy	matching	funds:9
+soc	al	axes	matching	funds:9
+soc	et	boy	matching	funds:9
+soc	et	axes	matching	funds:9
+soc	boy	axes	matching	funds:9
+princeton	al	et	matching	funds:9
+princeton	al	boy	matching	funds:9
+princeton	al	axes	matching	funds:9
+princeton	et	boy	matching	funds:9
+princeton	et	axes	matching	funds:9
+princeton	boy	axes	matching	funds:9
+al	et	boy	matching	funds:9
+al	et	axes	matching	funds:9
+al	boy	axes	matching	funds:9
+et	boy	axes	matching	funds:9
+soc	princeton	al	et	matching	funds:9
+soc	princeton	al	boy	matching	funds:9
+soc	princeton	al	axes	matching	funds:9
+soc	princeton	et	boy	matching	funds:9
+soc	princeton	et	axes	matching	funds:9
+soc	princeton	boy	axes	matching	funds:9
+soc	al	et	boy	matching	funds:9
+soc	al	et	axes	matching	funds:9
+soc	al	boy	axes	matching	funds:9
+soc	et	boy	axes	matching	funds:9
+princeton	al	et	boy	matching	funds:9
+princeton	al	et	axes	matching	funds:9
+princeton	al	boy	axes	matching	funds:9
+princeton	et	boy	axes	matching	funds:9
+al	et	boy	axes	matching	funds:9
+soc	princeton	al	et	boy	matching	funds:9
+soc	princeton	al	et	axes	matching	funds:9
+soc	princeton	al	boy	axes	matching	funds:9
+soc	princeton	et	boy	axes	matching	funds:9
+soc	al	et	boy	axes	matching	funds:9
+princeton	al	et	boy	axes	matching	funds:9
+soc	princeton	al	et	boy	axes	matching	funds:9
+motss:9
+motss	soc:9
+motss	princeton:9
+soc	motss	princeton:9
+motss	al:9
+soc	motss	al:9
+princeton	motss	al:9
+soc	princeton	motss	al:9
+motss	et:9
+soc	motss	et:9
+princeton	motss	et:9
+al	motss	et:9
+soc	princeton	motss	et:9
+soc	al	motss	et:9
+princeton	al	motss	et:9
+soc	princeton	al	motss	et:9
+motss	boy:9
+soc	motss	boy:9
+princeton	motss	boy:9
+al	motss	boy:9
+et	motss	boy:9
+soc	princeton	motss	boy:9
+soc	al	motss	boy:9
+soc	et	motss	boy:9
+princeton	al	motss	boy:9
+princeton	et	motss	boy:9
+al	et	motss	boy:9
+soc	princeton	al	motss	boy:9
+soc	princeton	et	motss	boy:9
+soc	al	et	motss	boy:9
+princeton	al	et	motss	boy:9
+soc	princeton	al	et	motss	boy:9
+motss	axes:9
+soc	motss	axes:9
+princeton	motss	axes:9
+al	motss	axes:9
+et	motss	axes:9
+boy	motss	axes:9
+soc	princeton	motss	axes:9
+soc	al	motss	axes:9
+soc	et	motss	axes:9
+soc	boy	motss	axes:9
+princeton	al	motss	axes:9
+princeton	et	motss	axes:9
+princeton	boy	motss	axes:9
+al	et	motss	axes:9
+al	boy	motss	axes:9
+et	boy	motss	axes:9
+soc	princeton	al	motss	axes:9
+soc	princeton	et	motss	axes:9
+soc	princeton	boy	motss	axes:9
+soc	al	et	motss	axes:9
+soc	al	boy	motss	axes:9
+soc	et	boy	motss	axes:9
+princeton	al	et	motss	axes:9
+princeton	al	boy	motss	axes:9
+princeton	et	boy	motss	axes:9
+al	et	boy	motss	axes:9
+soc	princeton	al	et	motss	axes:9
+soc	princeton	al	boy	motss	axes:9
+soc	princeton	et	boy	motss	axes:9
+soc	al	et	boy	motss	axes:9
+princeton	al	et	boy	motss	axes:9
+soc	princeton	al	et	boy	motss	axes:9
+motss	funds:9
+soc	motss	funds:9
+princeton	motss	funds:9
+al	motss	funds:9
+et	motss	funds:9
+boy	motss	funds:9
+axes	motss	funds:9
+soc	princeton	motss	funds:9
+soc	al	motss	funds:9
+soc	et	motss	funds:9
+soc	boy	motss	funds:9
+soc	axes	motss	funds:9
+princeton	al	motss	funds:9
+princeton	et	motss	funds:9
+princeton	boy	motss	funds:9
+princeton	axes	motss	funds:9
+al	et	motss	funds:9
+al	boy	motss	funds:9
+al	axes	motss	funds:9
+et	boy	motss	funds:9
+et	axes	motss	funds:9
+boy	axes	motss	funds:9
+soc	princeton	al	motss	funds:9
+soc	princeton	et	motss	funds:9
+soc	princeton	boy	motss	funds:9
+soc	princeton	axes	motss	funds:9
+soc	al	et	motss	funds:9
+soc	al	boy	motss	funds:9
+soc	al	axes	motss	funds:9
+soc	et	boy	motss	funds:9
+soc	et	axes	motss	funds:9
+soc	boy	axes	motss	funds:9
+princeton	al	et	motss	funds:9
+princeton	al	boy	motss	funds:9
+princeton	al	axes	motss	funds:9
+princeton	et	boy	motss	funds:9
+princeton	et	axes	motss	funds:9
+princeton	boy	axes	motss	funds:9
+al	et	boy	motss	funds:9
+al	et	axes	motss	funds:9
+al	boy	axes	motss	funds:9
+et	boy	axes	motss	funds:9
+soc	princeton	al	et	motss	funds:9
+soc	princeton	al	boy	motss	funds:9
+soc	princeton	al	axes	motss	funds:9
+soc	princeton	et	boy	motss	funds:9
+soc	princeton	et	axes	motss	funds:9
+soc	princeton	boy	axes	motss	funds:9
+soc	al	et	boy	motss	funds:9
+soc	al	et	axes	motss	funds:9
+soc	al	boy	axes	motss	funds:9
+soc	et	boy	axes	motss	funds:9
+princeton	al	et	boy	motss	funds:9
+princeton	al	et	axes	motss	funds:9
+princeton	al	boy	axes	motss	funds:9
+princeton	et	boy	axes	motss	funds:9
+al	et	boy	axes	motss	funds:9
+soc	princeton	al	et	boy	motss	funds:9
+soc	princeton	al	et	axes	motss	funds:9
+soc	princeton	al	boy	axes	motss	funds:9
+soc	princeton	et	boy	axes	motss	funds:9
+soc	al	et	boy	axes	motss	funds:9
+princeton	al	et	boy	axes	motss	funds:9
+soc	princeton	al	et	boy	axes	motss	funds:9
+motss	matching:9
+soc	motss	matching:9
+princeton	motss	matching:9
+al	motss	matching:9
+et	motss	matching:9
+boy	motss	matching:9
+axes	motss	matching:9
+funds	motss	matching:9
+soc	princeton	motss	matching:9
+soc	al	motss	matching:9
+soc	et	motss	matching:9
+soc	boy	motss	matching:9
+soc	axes	motss	matching:9
+soc	funds	motss	matching:9
+princeton	al	motss	matching:9
+princeton	et	motss	matching:9
+princeton	boy	motss	matching:9
+princeton	axes	motss	matching:9
+princeton	funds	motss	matching:9
+al	et	motss	matching:9
+al	boy	motss	matching:9
+al	axes	motss	matching:9
+al	funds	motss	matching:9
+et	boy	motss	matching:9
+et	axes	motss	matching:9
+et	funds	motss	matching:9
+boy	axes	motss	matching:9
+boy	funds	motss	matching:9
+axes	funds	motss	matching:9
+soc	princeton	al	motss	matching:9
+soc	princeton	et	motss	matching:9
+soc	princeton	boy	motss	matching:9
+soc	princeton	axes	motss	matching:9
+soc	princeton	funds	motss	matching:9
+soc	al	et	motss	matching:9
+soc	al	boy	motss	matching:9
+soc	al	axes	motss	matching:9
+soc	al	funds	motss	matching:9
+soc	et	boy	motss	matching:9
+soc	et	axes	motss	matching:9
+soc	et	funds	motss	matching:9
+soc	boy	axes	motss	matching:9
+soc	boy	funds	motss	matching:9
+soc	axes	funds	motss	matching:9
+princeton	al	et	motss	matching:9
+princeton	al	boy	motss	matching:9
+princeton	al	axes	motss	matching:9
+princeton	al	funds	motss	matching:9
+princeton	et	boy	motss	matching:9
+princeton	et	axes	motss	matching:9
+princeton	et	funds	motss	matching:9
+princeton	boy	axes	motss	matching:9
+princeton	boy	funds	motss	matching:9
+princeton	axes	funds	motss	matching:9
+al	et	boy	motss	matching:9
+al	et	axes	motss	matching:9
+al	et	funds	motss	matching:9
+al	boy	axes	motss	matching:9
+al	boy	funds	motss	matching:9
+al	axes	funds	motss	matching:9
+et	boy	axes	motss	matching:9
+et	boy	funds	motss	matching:9
+et	axes	funds	motss	matching:9
+boy	axes	funds	motss	matching:9
+soc	princeton	al	et	motss	matching:9
+soc	princeton	al	boy	motss	matching:9
+soc	princeton	al	axes	motss	matching:9
+soc	princeton	al	funds	motss	matching:9
+soc	princeton	et	boy	motss	matching:9
+soc	princeton	et	axes	motss	matching:9
+soc	princeton	et	funds	motss	matching:9
+soc	princeton	boy	axes	motss	matching:9
+soc	princeton	boy	funds	motss	matching:9
+soc	princeton	axes	funds	motss	matching:9
+soc	al	et	boy	motss	matching:9
+soc	al	et	axes	motss	matching:9
+soc	al	et	funds	motss	matching:9
+soc	al	boy	axes	motss	matching:9
+soc	al	boy	funds	motss	matching:9
+soc	al	axes	funds	motss	matching:9
+soc	et	boy	axes	motss	matching:9
+soc	et	boy	funds	motss	matching:9
+soc	et	axes	funds	motss	matching:9
+soc	boy	axes	funds	motss	matching:9
+princeton	al	et	boy	motss	matching:9
+princeton	al	et	axes	motss	matching:9
+princeton	al	et	funds	motss	matching:9
+princeton	al	boy	axes	motss	matching:9
+princeton	al	boy	funds	motss	matching:9
+princeton	al	axes	funds	motss	matching:9
+princeton	et	boy	axes	motss	matching:9
+princeton	et	boy	funds	motss	matching:9
+princeton	et	axes	funds	motss	matching:9
+princeton	boy	axes	funds	motss	matching:9
+al	et	boy	axes	motss	matching:9
+al	et	boy	funds	motss	matching:9
+al	et	axes	funds	motss	matching:9
+al	boy	axes	funds	motss	matching:9
+et	boy	axes	funds	motss	matching:9
+soc	princeton	al	et	boy	motss	matching:9
+soc	princeton	al	et	axes	motss	matching:9
+soc	princeton	al	et	funds	motss	matching:9
+soc	princeton	al	boy	axes	motss	matching:9
+soc	princeton	al	boy	funds	motss	matching:9
+soc	princeton	al	axes	funds	motss	matching:9
+soc	princeton	et	boy	axes	motss	matching:9
+soc	princeton	et	boy	funds	motss	matching:9
+soc	princeton	et	axes	funds	motss	matching:9
+soc	princeton	boy	axes	funds	motss	matching:9
+soc	al	et	boy	axes	motss	matching:9
+soc	al	et	boy	funds	motss	matching:9
+soc	al	et	axes	funds	motss	matching:9
+soc	al	boy	axes	funds	motss	matching:9
+soc	et	boy	axes	funds	motss	matching:9
+princeton	al	et	boy	axes	motss	matching:9
+princeton	al	et	boy	funds	motss	matching:9
+princeton	al	et	axes	funds	motss	matching:9
+princeton	al	boy	axes	funds	motss	matching:9
+princeton	et	boy	axes	funds	motss	matching:9
+al	et	boy	axes	funds	motss	matching:9
+soc	princeton	al	et	boy	axes	motss	matching:9
+soc	princeton	al	et	boy	funds	motss	matching:9
+soc	princeton	al	et	axes	funds	motss	matching:9
+soc	princeton	al	boy	axes	funds	motss	matching:9
+soc	princeton	et	boy	axes	funds	motss	matching:9
+soc	al	et	boy	axes	funds	motss	matching:9
+princeton	al	et	boy	axes	funds	motss	matching:9
+soc	princeton	al	et	boy	axes	funds	motss	matching:9
+scouts:9
+scouts	soc:9
+scouts	princeton:9
+soc	scouts	princeton:9
+scouts	al:9
+soc	scouts	al:9
+princeton	scouts	al:9
+soc	princeton	scouts	al:9
+scouts	et:9
+soc	scouts	et:9
+princeton	scouts	et:9
+al	scouts	et:9
+soc	princeton	scouts	et:9
+soc	al	scouts	et:9
+princeton	al	scouts	et:9
+soc	princeton	al	scouts	et:9
+scouts	boy:9
+soc	scouts	boy:9
+princeton	scouts	boy:9
+al	scouts	boy:9
+et	scouts	boy:9
+soc	princeton	scouts	boy:9
+soc	al	scouts	boy:9
+soc	et	scouts	boy:9
+princeton	al	scouts	boy:9
+princeton	et	scouts	boy:9
+al	et	scouts	boy:9
+soc	princeton	al	scouts	boy:9
+soc	princeton	et	scouts	boy:9
+soc	al	et	scouts	boy:9
+princeton	al	et	scouts	boy:9
+soc	princeton	al	et	scouts	boy:9
+scouts	axes:9
+soc	scouts	axes:9
+princeton	scouts	axes:9
+al	scouts	axes:9
+et	scouts	axes:9
+boy	scouts	axes:9
+soc	princeton	scouts	axes:9
+soc	al	scouts	axes:9
+soc	et	scouts	axes:9
+soc	boy	scouts	axes:9
+princeton	al	scouts	axes:9
+princeton	et	scouts	axes:9
+princeton	boy	scouts	axes:9
+al	et	scouts	axes:9
+al	boy	scouts	axes:9
+et	boy	scouts	axes:9
+soc	princeton	al	scouts	axes:9
+soc	princeton	et	scouts	axes:9
+soc	princeton	boy	scouts	axes:9
+soc	al	et	scouts	axes:9
+soc	al	boy	scouts	axes:9
+soc	et	boy	scouts	axes:9
+princeton	al	et	scouts	axes:9
+princeton	al	boy	scouts	axes:9
+princeton	et	boy	scouts	axes:9
+al	et	boy	scouts	axes:9
+soc	princeton	al	et	scouts	axes:9
+soc	princeton	al	boy	scouts	axes:9
+soc	princeton	et	boy	scouts	axes:9
+soc	al	et	boy	scouts	axes:9
+princeton	al	et	boy	scouts	axes:9
+soc	princeton	al	et	boy	scouts	axes:9
+scouts	funds:9
+soc	scouts	funds:9
+princeton	scouts	funds:9
+al	scouts	funds:9
+et	scouts	funds:9
+boy	scouts	funds:9
+axes	scouts	funds:9
+soc	princeton	scouts	funds:9
+soc	al	scouts	funds:9
+soc	et	scouts	funds:9
+soc	boy	scouts	funds:9
+soc	axes	scouts	funds:9
+princeton	al	scouts	funds:9
+princeton	et	scouts	funds:9
+princeton	boy	scouts	funds:9
+princeton	axes	scouts	funds:9
+al	et	scouts	funds:9
+al	boy	scouts	funds:9
+al	axes	scouts	funds:9
+et	boy	scouts	funds:9
+et	axes	scouts	funds:9
+boy	axes	scouts	funds:9
+soc	princeton	al	scouts	funds:9
+soc	princeton	et	scouts	funds:9
+soc	princeton	boy	scouts	funds:9
+soc	princeton	axes	scouts	funds:9
+soc	al	et	scouts	funds:9
+soc	al	boy	scouts	funds:9
+soc	al	axes	scouts	funds:9
+soc	et	boy	scouts	funds:9
+soc	et	axes	scouts	funds:9
+soc	boy	axes	scouts	funds:9
+princeton	al	et	scouts	funds:9
+princeton	al	boy	scouts	funds:9
+princeton	al	axes	scouts	funds:9
+princeton	et	boy	scouts	funds:9
+princeton	et	axes	scouts	funds:9
+princeton	boy	axes	scouts	funds:9
+al	et	boy	scouts	funds:9
+al	et	axes	scouts	funds:9
+al	boy	axes	scouts	funds:9
+et	boy	axes	scouts	funds:9
+soc	princeton	al	et	scouts	funds:9
+soc	princeton	al	boy	scouts	funds:9
+soc	princeton	al	axes	scouts	funds:9
+soc	princeton	et	boy	scouts	funds:9
+soc	princeton	et	axes	scouts	funds:9
+soc	princeton	boy	axes	scouts	funds:9
+soc	al	et	boy	scouts	funds:9
+soc	al	et	axes	scouts	funds:9
+soc	al	boy	axes	scouts	funds:9
+soc	et	boy	axes	scouts	funds:9
+princeton	al	et	boy	scouts	funds:9
+princeton	al	et	axes	scouts	funds:9
+princeton	al	boy	axes	scouts	funds:9
+princeton	et	boy	axes	scouts	funds:9
+al	et	boy	axes	scouts	funds:9
+soc	princeton	al	et	boy	scouts	funds:9
+soc	princeton	al	et	axes	scouts	funds:9
+soc	princeton	al	boy	axes	scouts	funds:9
+soc	princeton	et	boy	axes	scouts	funds:9
+soc	al	et	boy	axes	scouts	funds:9
+princeton	al	et	boy	axes	scouts	funds:9
+soc	princeton	al	et	boy	axes	scouts	funds:9
+scouts	matching:9
+soc	scouts	matching:9
+princeton	scouts	matching:9
+al	scouts	matching:9
+et	scouts	matching:9
+boy	scouts	matching:9
+axes	scouts	matching:9
+funds	scouts	matching:9
+soc	princeton	scouts	matching:9
+soc	al	scouts	matching:9
+soc	et	scouts	matching:9
+soc	boy	scouts	matching:9
+soc	axes	scouts	matching:9
+soc	funds	scouts	matching:9
+princeton	al	scouts	matching:9
+princeton	et	scouts	matching:9
+princeton	boy	scouts	matching:9
+princeton	axes	scouts	matching:9
+princeton	funds	scouts	matching:9
+al	et	scouts	matching:9
+al	boy	scouts	matching:9
+al	axes	scouts	matching:9
+al	funds	scouts	matching:9
+et	boy	scouts	matching:9
+et	axes	scouts	matching:9
+et	funds	scouts	matching:9
+boy	axes	scouts	matching:9
+boy	funds	scouts	matching:9
+axes	funds	scouts	matching:9
+soc	princeton	al	scouts	matching:9
+soc	princeton	et	scouts	matching:9
+soc	princeton	boy	scouts	matching:9
+soc	princeton	axes	scouts	matching:9
+soc	princeton	funds	scouts	matching:9
+soc	al	et	scouts	matching:9
+soc	al	boy	scouts	matching:9
+soc	al	axes	scouts	matching:9
+soc	al	funds	scouts	matching:9
+soc	et	boy	scouts	matching:9
+soc	et	axes	scouts	matching:9
+soc	et	funds	scouts	matching:9
+soc	boy	axes	scouts	matching:9
+soc	boy	funds	scouts	matching:9
+soc	axes	funds	scouts	matching:9
+princeton	al	et	scouts	matching:9
+princeton	al	boy	scouts	matching:9
+princeton	al	axes	scouts	matching:9
+princeton	al	funds	scouts	matching:9
+princeton	et	boy	scouts	matching:9
+princeton	et	axes	scouts	matching:9
+princeton	et	funds	scouts	matching:9
+princeton	boy	axes	scouts	matching:9
+princeton	boy	funds	scouts	matching:9
+princeton	axes	funds	scouts	matching:9
+al	et	boy	scouts	matching:9
+al	et	axes	scouts	matching:9
+al	et	funds	scouts	matching:9
+al	boy	axes	scouts	matching:9
+al	boy	funds	scouts	matching:9
+al	axes	funds	scouts	matching:9
+et	boy	axes	scouts	matching:9
+et	boy	funds	scouts	matching:9
+et	axes	funds	scouts	matching:9
+boy	axes	funds	scouts	matching:9
+soc	princeton	al	et	scouts	matching:9
+soc	princeton	al	boy	scouts	matching:9
+soc	princeton	al	axes	scouts	matching:9
+soc	princeton	al	funds	scouts	matching:9
+soc	princeton	et	boy	scouts	matching:9
+soc	princeton	et	axes	scouts	matching:9
+soc	princeton	et	funds	scouts	matching:9
+soc	princeton	boy	axes	scouts	matching:9
+soc	princeton	boy	funds	scouts	matching:9
+soc	princeton	axes	funds	scouts	matching:9
+soc	al	et	boy	scouts	matching:9
+soc	al	et	axes	scouts	matching:9
+soc	al	et	funds	scouts	matching:9
+soc	al	boy	axes	scouts	matching:9
+soc	al	boy	funds	scouts	matching:9
+soc	al	axes	funds	scouts	matching:9
+soc	et	boy	axes	scouts	matching:9
+soc	et	boy	funds	scouts	matching:9
+soc	et	axes	funds	scouts	matching:9
+soc	boy	axes	funds	scouts	matching:9
+princeton	al	et	boy	scouts	matching:9
+princeton	al	et	axes	scouts	matching:9
+princeton	al	et	funds	scouts	matching:9
+princeton	al	boy	axes	scouts	matching:9
+princeton	al	boy	funds	scouts	matching:9
+princeton	al	axes	funds	scouts	matching:9
+princeton	et	boy	axes	scouts	matching:9
+princeton	et	boy	funds	scouts	matching:9
+princeton	et	axes	funds	scouts	matching:9
+princeton	boy	axes	funds	scouts	matching:9
+al	et	boy	axes	scouts	matching:9
+al	et	boy	funds	scouts	matching:9
+al	et	axes	funds	scouts	matching:9
+al	boy	axes	funds	scouts	matching:9
+et	boy	axes	funds	scouts	matching:9
+soc	princeton	al	et	boy	scouts	matching:9
+soc	princeton	al	et	axes	scouts	matching:9
+soc	princeton	al	et	funds	scouts	matching:9
+soc	princeton	al	boy	axes	scouts	matching:9
+soc	princeton	al	boy	funds	scouts	matching:9
+soc	princeton	al	axes	funds	scouts	matching:9
+soc	princeton	et	boy	axes	scouts	matching:9
+soc	princeton	et	boy	funds	scouts	matching:9
+soc	princeton	et	axes	funds	scouts	matching:9
+soc	princeton	boy	axes	funds	scouts	matching:9
+soc	al	et	boy	axes	scouts	matching:9
+soc	al	et	boy	funds	scouts	matching:9
+soc	al	et	axes	funds	scouts	matching:9
+soc	al	boy	axes	funds	scouts	matching:9
+soc	et	boy	axes	funds	scouts	matching:9
+princeton	al	et	boy	axes	scouts	matching:9
+princeton	al	et	boy	funds	scouts	matching:9
+princeton	al	et	axes	funds	scouts	matching:9
+princeton	al	boy	axes	funds	scouts	matching:9
+princeton	et	boy	axes	funds	scouts	matching:9
+al	et	boy	axes	funds	scouts	matching:9
+soc	princeton	al	et	boy	axes	scouts	matching:9
+soc	princeton	al	et	boy	funds	scouts	matching:9
+soc	princeton	al	et	axes	funds	scouts	matching:9
+soc	princeton	al	boy	axes	funds	scouts	matching:9
+soc	princeton	et	boy	axes	funds	scouts	matching:9
+soc	al	et	boy	axes	funds	scouts	matching:9
+princeton	al	et	boy	axes	funds	scouts	matching:9
+soc	princeton	al	et	boy	axes	funds	scouts	matching:9
+scouts	motss:9
+soc	scouts	motss:9
+princeton	scouts	motss:9
+al	scouts	motss:9
+et	scouts	motss:9
+boy	scouts	motss:9
+axes	scouts	motss:9
+funds	scouts	motss:9
+matching	scouts	motss:9
+soc	princeton	scouts	motss:9
+soc	al	scouts	motss:9
+soc	et	scouts	motss:9
+soc	boy	scouts	motss:9
+soc	axes	scouts	motss:9
+soc	funds	scouts	motss:9
+soc	matching	scouts	motss:9
+princeton	al	scouts	motss:9
+princeton	et	scouts	motss:9
+princeton	boy	scouts	motss:9
+princeton	axes	scouts	motss:9
+princeton	funds	scouts	motss:9
+princeton	matching	scouts	motss:9
+al	et	scouts	motss:9
+al	boy	scouts	motss:9
+al	axes	scouts	motss:9
+al	funds	scouts	motss:9
+al	matching	scouts	motss:9
+et	boy	scouts	motss:9
+et	axes	scouts	motss:9
+et	funds	scouts	motss:9
+et	matching	scouts	motss:9
+boy	axes	scouts	motss:9
+boy	funds	scouts	motss:9
+boy	matching	scouts	motss:9
+axes	funds	scouts	motss:9
+axes	matching	scouts	motss:9
+funds	matching	scouts	motss:9
+soc	princeton	al	scouts	motss:9
+soc	princeton	et	scouts	motss:9
+soc	princeton	boy	scouts	motss:9
+soc	princeton	axes	scouts	motss:9
+soc	princeton	funds	scouts	motss:9
+soc	princeton	matching	scouts	motss:9
+soc	al	et	scouts	motss:9
+soc	al	boy	scouts	motss:9
+soc	al	axes	scouts	motss:9
+soc	al	funds	scouts	motss:9
+soc	al	matching	scouts	motss:9
+soc	et	boy	scouts	motss:9
+soc	et	axes	scouts	motss:9
+soc	et	funds	scouts	motss:9
+soc	et	matching	scouts	motss:9
+soc	boy	axes	scouts	motss:9
+soc	boy	funds	scouts	motss:9
+soc	boy	matching	scouts	motss:9
+soc	axes	funds	scouts	motss:9
+soc	axes	matching	scouts	motss:9
+soc	funds	matching	scouts	motss:9
+princeton	al	et	scouts	motss:9
+princeton	al	boy	scouts	motss:9
+princeton	al	axes	scouts	motss:9
+princeton	al	funds	scouts	motss:9
+princeton	al	matching	scouts	motss:9
+princeton	et	boy	scouts	motss:9
+princeton	et	axes	scouts	motss:9
+princeton	et	funds	scouts	motss:9
+princeton	et	matching	scouts	motss:9
+princeton	boy	axes	scouts	motss:9
+princeton	boy	funds	scouts	motss:9
+princeton	boy	matching	scouts	motss:9
+princeton	axes	funds	scouts	motss:9
+princeton	axes	matching	scouts	motss:9
+princeton	funds	matching	scouts	motss:9
+al	et	boy	scouts	motss:9
+al	et	axes	scouts	motss:9
+al	et	funds	scouts	motss:9
+al	et	matching	scouts	motss:9
+al	boy	axes	scouts	motss:9
+al	boy	funds	scouts	motss:9
+al	boy	matching	scouts	motss:9
+al	axes	funds	scouts	motss:9
+al	axes	matching	scouts	motss:9
+al	funds	matching	scouts	motss:9
+et	boy	axes	scouts	motss:9
+et	boy	funds	scouts	motss:9
+et	boy	matching	scouts	motss:9
+et	axes	funds	scouts	motss:9
+et	axes	matching	scouts	motss:9
+et	funds	matching	scouts	motss:9
+boy	axes	funds	scouts	motss:9
+boy	axes	matching	scouts	motss:9
+boy	funds	matching	scouts	motss:9
+axes	funds	matching	scouts	motss:9
+soc	princeton	al	et	scouts	motss:9
+soc	princeton	al	boy	scouts	motss:9
+soc	princeton	al	axes	scouts	motss:9
+soc	princeton	al	funds	scouts	motss:9
+soc	princeton	al	matching	scouts	motss:9
+soc	princeton	et	boy	scouts	motss:9
+soc	princeton	et	axes	scouts	motss:9
+soc	princeton	et	funds	scouts	motss:9
+soc	princeton	et	matching	scouts	motss:9
+soc	princeton	boy	axes	scouts	motss:9
+soc	princeton	boy	funds	scouts	motss:9
+soc	princeton	boy	matching	scouts	motss:9
+soc	princeton	axes	funds	scouts	motss:9
+soc	princeton	axes	matching	scouts	motss:9
+soc	princeton	funds	matching	scouts	motss:9
+soc	al	et	boy	scouts	motss:9
+soc	al	et	axes	scouts	motss:9
+soc	al	et	funds	scouts	motss:9
+soc	al	et	matching	scouts	motss:9
+soc	al	boy	axes	scouts	motss:9
+soc	al	boy	funds	scouts	motss:9
+soc	al	boy	matching	scouts	motss:9
+soc	al	axes	funds	scouts	motss:9
+soc	al	axes	matching	scouts	motss:9
+soc	al	funds	matching	scouts	motss:9
+soc	et	boy	axes	scouts	motss:9
+soc	et	boy	funds	scouts	motss:9
+soc	et	boy	matching	scouts	motss:9
+soc	et	axes	funds	scouts	motss:9
+soc	et	axes	matching	scouts	motss:9
+soc	et	funds	matching	scouts	motss:9
+soc	boy	axes	funds	scouts	motss:9
+soc	boy	axes	matching	scouts	motss:9
+soc	boy	funds	matching	scouts	motss:9
+soc	axes	funds	matching	scouts	motss:9
+princeton	al	et	boy	scouts	motss:9
+princeton	al	et	axes	scouts	motss:9
+princeton	al	et	funds	scouts	motss:9
+princeton	al	et	matching	scouts	motss:9
+princeton	al	boy	axes	scouts	motss:9
+princeton	al	boy	funds	scouts	motss:9
+princeton	al	boy	matching	scouts	motss:9
+princeton	al	axes	funds	scouts	motss:9
+princeton	al	axes	matching	scouts	motss:9
+princeton	al	funds	matching	scouts	motss:9
+princeton	et	boy	axes	scouts	motss:9
+princeton	et	boy	funds	scouts	motss:9
+princeton	et	boy	matching	scouts	motss:9
+princeton	et	axes	funds	scouts	motss:9
+princeton	et	axes	matching	scouts	motss:9
+princeton	et	funds	matching	scouts	motss:9
+princeton	boy	axes	funds	scouts	motss:9
+princeton	boy	axes	matching	scouts	motss:9
+princeton	boy	funds	matching	scouts	motss:9
+princeton	axes	funds	matching	scouts	motss:9
+al	et	boy	axes	scouts	motss:9
+al	et	boy	funds	scouts	motss:9
+al	et	boy	matching	scouts	motss:9
+al	et	axes	funds	scouts	motss:9
+al	et	axes	matching	scouts	motss:9
+al	et	funds	matching	scouts	motss:9
+al	boy	axes	funds	scouts	motss:9
+al	boy	axes	matching	scouts	motss:9
+al	boy	funds	matching	scouts	motss:9
+al	axes	funds	matching	scouts	motss:9
+et	boy	axes	funds	scouts	motss:9
+et	boy	axes	matching	scouts	motss:9
+et	boy	funds	matching	scouts	motss:9
+et	axes	funds	matching	scouts	motss:9
+boy	axes	funds	matching	scouts	motss:9
+soc	princeton	al	et	boy	scouts	motss:9
+soc	princeton	al	et	axes	scouts	motss:9
+soc	princeton	al	et	funds	scouts	motss:9
+soc	princeton	al	et	matching	scouts	motss:9
+soc	princeton	al	boy	axes	scouts	motss:9
+soc	princeton	al	boy	funds	scouts	motss:9
+soc	princeton	al	boy	matching	scouts	motss:9
+soc	princeton	al	axes	funds	scouts	motss:9
+soc	princeton	al	axes	matching	scouts	motss:9
+soc	princeton	al	funds	matching	scouts	motss:9
+soc	princeton	et	boy	axes	scouts	motss:9
+soc	princeton	et	boy	funds	scouts	motss:9
+soc	princeton	et	boy	matching	scouts	motss:9
+soc	princeton	et	axes	funds	scouts	motss:9
+soc	princeton	et	axes	matching	scouts	motss:9
+soc	princeton	et	funds	matching	scouts	motss:9
+soc	princeton	boy	axes	funds	scouts	motss:9
+soc	princeton	boy	axes	matching	scouts	motss:9
+soc	princeton	boy	funds	matching	scouts	motss:9
+soc	princeton	axes	funds	matching	scouts	motss:9
+soc	al	et	boy	axes	scouts	motss:9
+soc	al	et	boy	funds	scouts	motss:9
+soc	al	et	boy	matching	scouts	motss:9
+soc	al	et	axes	funds	scouts	motss:9
+soc	al	et	axes	matching	scouts	motss:9
+soc	al	et	funds	matching	scouts	motss:9
+soc	al	boy	axes	funds	scouts	motss:9
+soc	al	boy	axes	matching	scouts	motss:9
+soc	al	boy	funds	matching	scouts	motss:9
+soc	al	axes	funds	matching	scouts	motss:9
+soc	et	boy	axes	funds	scouts	motss:9
+soc	et	boy	axes	matching	scouts	motss:9
+soc	et	boy	funds	matching	scouts	motss:9
+soc	et	axes	funds	matching	scouts	motss:9
+soc	boy	axes	funds	matching	scouts	motss:9
+princeton	al	et	boy	axes	scouts	motss:9
+princeton	al	et	boy	funds	scouts	motss:9
+princeton	al	et	boy	matching	scouts	motss:9
+princeton	al	et	axes	funds	scouts	motss:9
+princeton	al	et	axes	matching	scouts	motss:9
+princeton	al	et	funds	matching	scouts	motss:9
+princeton	al	boy	axes	funds	scouts	motss:9
+princeton	al	boy	axes	matching	scouts	motss:9
+princeton	al	boy	funds	matching	scouts	motss:9
+princeton	al	axes	funds	matching	scouts	motss:9
+princeton	et	boy	axes	funds	scouts	motss:9
+princeton	et	boy	axes	matching	scouts	motss:9
+princeton	et	boy	funds	matching	scouts	motss:9
+princeton	et	axes	funds	matching	scouts	motss:9
+princeton	boy	axes	funds	matching	scouts	motss:9
+al	et	boy	axes	funds	scouts	motss:9
+al	et	boy	axes	matching	scouts	motss:9
+al	et	boy	funds	matching	scouts	motss:9
+al	et	axes	funds	matching	scouts	motss:9
+al	boy	axes	funds	matching	scouts	motss:9
+et	boy	axes	funds	matching	scouts	motss:9
+soc	princeton	al	et	boy	axes	scouts	motss:9
+soc	princeton	al	et	boy	funds	scouts	motss:9
+soc	princeton	al	et	boy	matching	scouts	motss:9
+soc	princeton	al	et	axes	funds	scouts	motss:9
+soc	princeton	al	et	axes	matching	scouts	motss:9
+soc	princeton	al	et	funds	matching	scouts	motss:9
+soc	princeton	al	boy	axes	funds	scouts	motss:9
+soc	princeton	al	boy	axes	matching	scouts	motss:9
+soc	princeton	al	boy	funds	matching	scouts	motss:9
+soc	princeton	al	axes	funds	matching	scouts	motss:9
+soc	princeton	et	boy	axes	funds	scouts	motss:9
+soc	princeton	et	boy	axes	matching	scouts	motss:9
+soc	princeton	et	boy	funds	matching	scouts	motss:9
+soc	princeton	et	axes	funds	matching	scouts	motss:9
+soc	princeton	boy	axes	funds	matching	scouts	motss:9
+soc	al	et	boy	axes	funds	scouts	motss:9
+soc	al	et	boy	axes	matching	scouts	motss:9
+soc	al	et	boy	funds	matching	scouts	motss:9
+soc	al	et	axes	funds	matching	scouts	motss:9
+soc	al	boy	axes	funds	matching	scouts	motss:9
+soc	et	boy	axes	funds	matching	scouts	motss:9
+princeton	al	et	boy	axes	funds	scouts	motss:9
+princeton	al	et	boy	axes	matching	scouts	motss:9
+princeton	al	et	boy	funds	matching	scouts	motss:9
+princeton	al	et	axes	funds	matching	scouts	motss:9
+princeton	al	boy	axes	funds	matching	scouts	motss:9
+princeton	et	boy	axes	funds	matching	scouts	motss:9
+al	et	boy	axes	funds	matching	scouts	motss:9
+soc	princeton	al	et	boy	axes	funds	scouts	motss:9
+soc	princeton	al	et	boy	axes	matching	scouts	motss:9
+soc	princeton	al	et	boy	funds	matching	scouts	motss:9
+soc	princeton	al	et	axes	funds	matching	scouts	motss:9
+soc	princeton	al	boy	axes	funds	matching	scouts	motss:9
+soc	princeton	et	boy	axes	funds	matching	scouts	motss:9
+soc	al	et	boy	axes	funds	matching	scouts	motss:9
+princeton	al	et	boy	axes	funds	matching	scouts	motss:9
+soc	princeton	al	et	boy	axes	funds	matching	scouts	motss:9
+interests:9
+address:9
+includes:9
+anywhere:9
+introduction:9
+spiritual:9
+server:9
+absence:10
+alternatives:10
+contradictions:10
+gives:10
+interested:10
+leads:10
+premise:10
+unicorns:10
+unicorns	pink:9
+prepared:10
+blind:10
+fully:10
+odd:10
+phrase:10
+psychological:10
+melb:10
+melb	australia:10
+pre:10
+applies:10
+criminal:10
+executed:10
+founded:10
+disease:10
+originally:10
+round:10
+stick:10
+aware:10
+crazy:10
+crazy	dan:9
+crazy	bissell:9
+dan	crazy	bissell:9
+crazy	lawrence:9
+dan	crazy	lawrence:9
+bissell	crazy	lawrence:9
+dan	bissell	crazy	lawrence:9
+crazy	bissda:9
+dan	crazy	bissda:9
+bissell	crazy	bissda:9
+lawrence	crazy	bissda:9
+dan	bissell	crazy	bissda:9
+dan	lawrence	crazy	bissda:9
+bissell	lawrence	crazy	bissda:9
+dan	bissell	lawrence	crazy	bissda:9
+possibilities:10
+spend:10
+speaking:10
+adam:10
+degree:10
+minds:10
+mit:10
+implies:10
+manner:10
+shall:10
+supported:10
+predictions:10
+predictions	scientific:9
+eh:10
+47:10
+avoid:10
+intelligent:10
+civil:10
+rate:10
+core:10
+illinois:10
+illinois	middle:9
+spending:10
+spending	debate:9
+justice:10
+purposes:10
+scott:10
+copies:10
+period:10
+pooh:10
+pooh	bears:10
+dos:10
+dos	date:9
+dos	psilink:9
+date	dos	psilink:9
+dos	knowles:9
+date	dos	knowles:9
+psilink	dos	knowles:9
+date	psilink	dos	knowles:9
+dos	p00261:9
+date	dos	p00261:9
+psilink	dos	p00261:9
+knowles	dos	p00261:9
+date	psilink	dos	p00261:9
+date	knowles	dos	p00261:9
+psilink	knowles	dos	p00261:9
+date	psilink	knowles	dos	p00261:9
+mailer:10
+mailer	psilink:9
+date	mailer	psilink:9
+mailer	knowles:9
+date	mailer	knowles:9
+psilink	mailer	knowles:9
+date	psilink	mailer	knowles:9
+mailer	p00261:9
+date	mailer	p00261:9
+psilink	mailer	p00261:9
+knowles	mailer	p00261:9
+date	psilink	mailer	p00261:9
+date	knowles	mailer	p00261:9
+psilink	knowles	mailer	p00261:9
+date	psilink	knowles	mailer	p00261:9
+mailer	dos:9
+date	mailer	dos:9
+psilink	mailer	dos:9
+knowles	mailer	dos:9
+p00261	mailer	dos:9
+date	psilink	mailer	dos:9
+date	knowles	mailer	dos:9
+date	p00261	mailer	dos:9
+psilink	knowles	mailer	dos:9
+psilink	p00261	mailer	dos:9
+knowles	p00261	mailer	dos:9
+date	psilink	knowles	mailer	dos:9
+date	psilink	p00261	mailer	dos:9
+date	knowles	p00261	mailer	dos:9
+psilink	knowles	p00261	mailer	dos:9
+date	psilink	knowles	p00261	mailer	dos:9
+mailer	date:10
+move:10
+secular:10
+helping:10
+loved:10
+weight:10
+argued:10
+interpret:10
+metaphysical:10
+raised:10
+sig:10
+intelligence:10
+blame:10
+forget:10
+referring:10
+soon:10
+texts:10
+quick:10
+carefully:10
+summary:10
+wants:10
+deaths:10
+resulted:10
+wars:10
+perspective:10
+guilt:10
+contains:10
+comment:10
+powerful:10
+fun:10
+spent:10
+39:10
+versions:10
+fri:10
+military:10
+appears:10
+origin:10
+sign:10
+appear:10
+divine:10
+somebody:10
+axes:10
+axes	soc:9
+axes	princeton:9
+soc	axes	princeton:9
+axes	al:9
+soc	axes	al:9
+princeton	axes	al:9
+soc	princeton	axes	al:9
+axes	et:9
+soc	axes	et:9
+princeton	axes	et:9
+al	axes	et:9
+soc	princeton	axes	et:9
+soc	al	axes	et:9
+princeton	al	axes	et:9
+soc	princeton	al	axes	et:9
+axes	boy:9
+soc	axes	boy:9
+princeton	axes	boy:9
+al	axes	boy:9
+et	axes	boy:9
+soc	princeton	axes	boy:9
+soc	al	axes	boy:9
+soc	et	axes	boy:9
+princeton	al	axes	boy:9
+princeton	et	axes	boy:9
+al	et	axes	boy:9
+soc	princeton	al	axes	boy:9
+soc	princeton	et	axes	boy:9
+soc	al	et	axes	boy:9
+princeton	al	et	axes	boy:9
+soc	princeton	al	et	axes	boy:9
+add:10
+tony:10
+washington:10
+worth:10
+wesleyan:10
+wesleyan	eagle:10
+food:10
+media:10
+34:10
+allows:11
+fair:11
+game:11
+omniscient:11
+creation:11
+cut:11
+maddi:11
+vms:11
+folks:11
+wishes:11
+25:11
+impossible:11
+understood:11
+51:11
+yeah:11
+sexual:11
+societies:11
+status:11
+1993apr14:11
+brought:11
+fatwa:11
+library:11
+citizens:11
+step:11
+unusual:11
+bake:11
+bake	agnostics:10
+amusing	bake	agnostics:10
+bake	amusing:11
+mcl:11
+mcl	agnostics:10
+amusing	mcl	agnostics:10
+bake	mcl	agnostics:10
+amusing	bake	mcl	agnostics:10
+mcl	amusing:11
+mcl	bake:11
+amusing	mcl	bake:11
+timmbake:11
+timmbake	agnostics:10
+amusing	timmbake	agnostics:10
+bake	timmbake	agnostics:10
+mcl	timmbake	agnostics:10
+amusing	bake	timmbake	agnostics:10
+amusing	mcl	timmbake	agnostics:10
+bake	mcl	timmbake	agnostics:10
+amusing	bake	mcl	timmbake	agnostics:10
+timmbake	amusing:11
+timmbake	bake:11
+amusing	timmbake	bake:11
+timmbake	mcl:11
+amusing	timmbake	mcl:11
+bake	timmbake	mcl:11
+amusing	bake	timmbake	mcl:11
+timmons:11
+timmons	agnostics:10
+amusing	timmons	agnostics:10
+bake	timmons	agnostics:10
+mcl	timmons	agnostics:10
+timmbake	timmons	agnostics:10
+amusing	bake	timmons	agnostics:10
+amusing	mcl	timmons	agnostics:10
+amusing	timmbake	timmons	agnostics:10
+bake	mcl	timmons	agnostics:10
+bake	timmbake	timmons	agnostics:10
+mcl	timmbake	timmons	agnostics:10
+amusing	bake	mcl	timmons	agnostics:10
+amusing	bake	timmbake	timmons	agnostics:10
+amusing	mcl	timmbake	timmons	agnostics:10
+bake	mcl	timmbake	timmons	agnostics:10
+amusing	bake	mcl	timmbake	timmons	agnostics:10
+timmons	amusing:11
+timmons	bake:11
+amusing	timmons	bake:11
+timmons	mcl:11
+amusing	timmons	mcl:11
+bake	timmons	mcl:11
+amusing	bake	timmons	mcl:11
+timmons	timmbake:11
+amusing	timmons	timmbake:11
+bake	timmons	timmbake:11
+mcl	timmons	timmbake:11
+amusing	bake	timmons	timmbake:11
+amusing	mcl	timmons	timmbake:11
+bake	mcl	timmons	timmbake:11
+amusing	bake	mcl	timmons	timmbake:11
+ucsb:11
+ucsb	agnostics:10
+amusing	ucsb	agnostics:10
+bake	ucsb	agnostics:10
+mcl	ucsb	agnostics:10
+timmbake	ucsb	agnostics:10
+timmons	ucsb	agnostics:10
+amusing	bake	ucsb	agnostics:10
+amusing	mcl	ucsb	agnostics:10
+amusing	timmbake	ucsb	agnostics:10
+amusing	timmons	ucsb	agnostics:10
+bake	mcl	ucsb	agnostics:10
+bake	timmbake	ucsb	agnostics:10
+bake	timmons	ucsb	agnostics:10
+mcl	timmbake	ucsb	agnostics:10
+mcl	timmons	ucsb	agnostics:10
+timmbake	timmons	ucsb	agnostics:10
+amusing	bake	mcl	ucsb	agnostics:10
+amusing	bake	timmbake	ucsb	agnostics:10
+amusing	bake	timmons	ucsb	agnostics:10
+amusing	mcl	timmbake	ucsb	agnostics:10
+amusing	mcl	timmons	ucsb	agnostics:10
+amusing	timmbake	timmons	ucsb	agnostics:10
+bake	mcl	timmbake	ucsb	agnostics:10
+bake	mcl	timmons	ucsb	agnostics:10
+bake	timmbake	timmons	ucsb	agnostics:10
+mcl	timmbake	timmons	ucsb	agnostics:10
+amusing	bake	mcl	timmbake	ucsb	agnostics:10
+amusing	bake	mcl	timmons	ucsb	agnostics:10
+amusing	bake	timmbake	timmons	ucsb	agnostics:10
+amusing	mcl	timmbake	timmons	ucsb	agnostics:10
+bake	mcl	timmbake	timmons	ucsb	agnostics:10
+amusing	bake	mcl	timmbake	timmons	ucsb	agnostics:10
+ucsb	amusing:11
+ucsb	bake:11
+amusing	ucsb	bake:11
+ucsb	mcl:11
+amusing	ucsb	mcl:11
+bake	ucsb	mcl:11
+amusing	bake	ucsb	mcl:11
+ucsb	timmbake:11
+amusing	ucsb	timmbake:11
+bake	ucsb	timmbake:11
+mcl	ucsb	timmbake:11
+amusing	bake	ucsb	timmbake:11
+amusing	mcl	ucsb	timmbake:11
+bake	mcl	ucsb	timmbake:11
+amusing	bake	mcl	ucsb	timmbake:11
+ucsb	timmons:11
+amusing	ucsb	timmons:11
+bake	ucsb	timmons:11
+mcl	ucsb	timmons:11
+timmbake	ucsb	timmons:11
+amusing	bake	ucsb	timmons:11
+amusing	mcl	ucsb	timmons:11
+amusing	timmbake	ucsb	timmons:11
+bake	mcl	ucsb	timmons:11
+bake	timmbake	ucsb	timmons:11
+mcl	timmbake	ucsb	timmons:11
+amusing	bake	mcl	ucsb	timmons:11
+amusing	bake	timmbake	ucsb	timmons:11
+amusing	mcl	timmbake	ucsb	timmons:11
+bake	mcl	timmbake	ucsb	timmons:11
+amusing	bake	mcl	timmbake	ucsb	timmons:11
+nm0w:11
+nm0w	ann:11
+nm0w	miller:11
+ann	nm0w	miller:11
+nm0w	nanci:11
+ann	nm0w	nanci:11
+miller	nm0w	nanci:11
+ann	miller	nm0w	nanci:11
+behaviour:11
+describe:11
+function:11
+kingdom:11
+convinced:11
+excuse:11
+share:11
+waste:11
+soul:11
+longer:11
+tm:11
+car:11
+observations:11
+arabia:11
+welcome:11
+birth:11
+historical:11
+translation:11
+verses:11
+believes:11
+ed:11
+explained:11
+falls:11
+portal:11
+together:11
+removed:11
+responsible:11
+48:11
+centre:11
+evolved:11
+subjective:11
+besides:11
+lost:11
+missed:11
+bears:11
+compare:11
+ourselves:11
+sake:11
+40:11
+mom:11
+policy:11
+relates:11
+relates	snm6394:10
+content:11
+dsinc:11
+incorrect:11
+justify:11
+numbers:11
+saw:11
+members:11
+attempting:11
+000:11
+complex:11
+ordinary:11
+burden:11
+telling:11
+christ:11
+night:11
+lous:11
+lous	brothers:11
+lous	closed:11
+brothers	lous	closed:11
+lous	pray:11
+brothers	lous	pray:11
+closed	lous	pray:11
+brothers	closed	lous	pray:11
+lous	strife:11
+brothers	lous	strife:11
+closed	lous	strife:11
+pray	lous	strife:11
+brothers	closed	lous	strife:11
+brothers	pray	lous	strife:11
+closed	pray	lous	strife:11
+brothers	closed	pray	lous	strife:11
+marv:11
+marv	brothers:11
+marv	closed:11
+brothers	marv	closed:11
+marv	pray:11
+brothers	marv	pray:11
+closed	marv	pray:11
+brothers	closed	marv	pray:11
+marv	strife:11
+brothers	marv	strife:11
+closed	marv	strife:11
+pray	marv	strife:11
+brothers	closed	marv	strife:11
+brothers	pray	marv	strife:11
+closed	pray	marv	strife:11
+brothers	closed	pray	marv	strife:11
+marv	lous:11
+brothers	marv	lous:11
+closed	marv	lous:11
+pray	marv	lous:11
+strife	marv	lous:11
+brothers	closed	marv	lous:11
+brothers	pray	marv	lous:11
+brothers	strife	marv	lous:11
+closed	pray	marv	lous:11
+closed	strife	marv	lous:11
+pray	strife	marv	lous:11
+brothers	closed	pray	marv	lous:11
+brothers	closed	strife	marv	lous:11
+brothers	pray	strife	marv	lous:11
+closed	pray	strife	marv	lous:11
+brothers	closed	pray	strife	marv	lous:11
+sod:11
+sod	brothers:11
+sod	closed:11
+brothers	sod	closed:11
+sod	pray:11
+brothers	sod	pray:11
+closed	sod	pray:11
+brothers	closed	sod	pray:11
+sod	strife:11
+brothers	sod	strife:11
+closed	sod	strife:11
+pray	sod	strife:11
+brothers	closed	sod	strife:11
+brothers	pray	sod	strife:11
+closed	pray	sod	strife:11
+brothers	closed	pray	sod	strife:11
+sod	lous:11
+brothers	sod	lous:11
+closed	sod	lous:11
+pray	sod	lous:11
+strife	sod	lous:11
+brothers	closed	sod	lous:11
+brothers	pray	sod	lous:11
+brothers	strife	sod	lous:11
+closed	pray	sod	lous:11
+closed	strife	sod	lous:11
+pray	strife	sod	lous:11
+brothers	closed	pray	sod	lous:11
+brothers	closed	strife	sod	lous:11
+brothers	pray	strife	sod	lous:11
+closed	pray	strife	sod	lous:11
+brothers	closed	pray	strife	sod	lous:11
+sod	marv:11
+brothers	sod	marv:11
+closed	sod	marv:11
+pray	sod	marv:11
+strife	sod	marv:11
+lous	sod	marv:11
+brothers	closed	sod	marv:11
+brothers	pray	sod	marv:11
+brothers	strife	sod	marv:11
+brothers	lous	sod	marv:11
+closed	pray	sod	marv:11
+closed	strife	sod	marv:11
+closed	lous	sod	marv:11
+pray	strife	sod	marv:11
+pray	lous	sod	marv:11
+strife	lous	sod	marv:11
+brothers	closed	pray	sod	marv:11
+brothers	closed	strife	sod	marv:11
+brothers	closed	lous	sod	marv:11
+brothers	pray	strife	sod	marv:11
+brothers	pray	lous	sod	marv:11
+brothers	strife	lous	sod	marv:11
+closed	pray	strife	sod	marv:11
+closed	pray	lous	sod	marv:11
+closed	strife	lous	sod	marv:11
+pray	strife	lous	sod	marv:11
+brothers	closed	pray	strife	sod	marv:11
+brothers	closed	pray	lous	sod	marv:11
+brothers	closed	strife	lous	sod	marv:11
+brothers	pray	strife	lous	sod	marv:11
+closed	pray	strife	lous	sod	marv:11
+brothers	closed	pray	strife	lous	sod	marv:11
+tove:11
+tove	brothers:11
+tove	closed:11
+brothers	tove	closed:11
+tove	pray:11
+brothers	tove	pray:11
+closed	tove	pray:11
+brothers	closed	tove	pray:11
+tove	strife:11
+brothers	tove	strife:11
+closed	tove	strife:11
+pray	tove	strife:11
+brothers	closed	tove	strife:11
+brothers	pray	tove	strife:11
+closed	pray	tove	strife:11
+brothers	closed	pray	tove	strife:11
+tove	lous:11
+brothers	tove	lous:11
+closed	tove	lous:11
+pray	tove	lous:11
+strife	tove	lous:11
+brothers	closed	tove	lous:11
+brothers	pray	tove	lous:11
+brothers	strife	tove	lous:11
+closed	pray	tove	lous:11
+closed	strife	tove	lous:11
+pray	strife	tove	lous:11
+brothers	closed	pray	tove	lous:11
+brothers	closed	strife	tove	lous:11
+brothers	pray	strife	tove	lous:11
+closed	pray	strife	tove	lous:11
+brothers	closed	pray	strife	tove	lous:11
+tove	marv:11
+brothers	tove	marv:11
+closed	tove	marv:11
+pray	tove	marv:11
+strife	tove	marv:11
+lous	tove	marv:11
+brothers	closed	tove	marv:11
+brothers	pray	tove	marv:11
+brothers	strife	tove	marv:11
+brothers	lous	tove	marv:11
+closed	pray	tove	marv:11
+closed	strife	tove	marv:11
+closed	lous	tove	marv:11
+pray	strife	tove	marv:11
+pray	lous	tove	marv:11
+strife	lous	tove	marv:11
+brothers	closed	pray	tove	marv:11
+brothers	closed	strife	tove	marv:11
+brothers	closed	lous	tove	marv:11
+brothers	pray	strife	tove	marv:11
+brothers	pray	lous	tove	marv:11
+brothers	strife	lous	tove	marv:11
+closed	pray	strife	tove	marv:11
+closed	pray	lous	tove	marv:11
+closed	strife	lous	tove	marv:11
+pray	strife	lous	tove	marv:11
+brothers	closed	pray	strife	tove	marv:11
+brothers	closed	pray	lous	tove	marv:11
+brothers	closed	strife	lous	tove	marv:11
+brothers	pray	strife	lous	tove	marv:11
+closed	pray	strife	lous	tove	marv:11
+brothers	closed	pray	strife	lous	tove	marv:11
+tove	sod:11
+brothers	tove	sod:11
+closed	tove	sod:11
+pray	tove	sod:11
+strife	tove	sod:11
+lous	tove	sod:11
+marv	tove	sod:11
+brothers	closed	tove	sod:11
+brothers	pray	tove	sod:11
+brothers	strife	tove	sod:11
+brothers	lous	tove	sod:11
+brothers	marv	tove	sod:11
+closed	pray	tove	sod:11
+closed	strife	tove	sod:11
+closed	lous	tove	sod:11
+closed	marv	tove	sod:11
+pray	strife	tove	sod:11
+pray	lous	tove	sod:11
+pray	marv	tove	sod:11
+strife	lous	tove	sod:11
+strife	marv	tove	sod:11
+lous	marv	tove	sod:11
+brothers	closed	pray	tove	sod:11
+brothers	closed	strife	tove	sod:11
+brothers	closed	lous	tove	sod:11
+brothers	closed	marv	tove	sod:11
+brothers	pray	strife	tove	sod:11
+brothers	pray	lous	tove	sod:11
+brothers	pray	marv	tove	sod:11
+brothers	strife	lous	tove	sod:11
+brothers	strife	marv	tove	sod:11
+brothers	lous	marv	tove	sod:11
+closed	pray	strife	tove	sod:11
+closed	pray	lous	tove	sod:11
+closed	pray	marv	tove	sod:11
+closed	strife	lous	tove	sod:11
+closed	strife	marv	tove	sod:11
+closed	lous	marv	tove	sod:11
+pray	strife	lous	tove	sod:11
+pray	strife	marv	tove	sod:11
+pray	lous	marv	tove	sod:11
+strife	lous	marv	tove	sod:11
+brothers	closed	pray	strife	tove	sod:11
+brothers	closed	pray	lous	tove	sod:11
+brothers	closed	pray	marv	tove	sod:11
+brothers	closed	strife	lous	tove	sod:11
+brothers	closed	strife	marv	tove	sod:11
+brothers	closed	lous	marv	tove	sod:11
+brothers	pray	strife	lous	tove	sod:11
+brothers	pray	strife	marv	tove	sod:11
+brothers	pray	lous	marv	tove	sod:11
+brothers	strife	lous	marv	tove	sod:11
+closed	pray	strife	lous	tove	sod:11
+closed	pray	strife	marv	tove	sod:11
+closed	pray	lous	marv	tove	sod:11
+closed	strife	lous	marv	tove	sod:11
+pray	strife	lous	marv	tove	sod:11
+brothers	closed	pray	strife	lous	tove	sod:11
+brothers	closed	pray	strife	marv	tove	sod:11
+brothers	closed	pray	lous	marv	tove	sod:11
+brothers	closed	strife	lous	marv	tove	sod:11
+brothers	pray	strife	lous	marv	tove	sod:11
+closed	pray	strife	lous	marv	tove	sod:11
+brothers	closed	pray	strife	lous	marv	tove	sod:11
+son:11
+affect:11
+primitive:11
+considering:11
+w165w:11
+w165w	rusnews:11
+usenet:11
+young:11
+cso:11
+cso	mike:10
+alexia	cso	mike:10
+lis	cso	mike:10
+alexia	lis	cso	mike:10
+cso	alexia:11
+cso	lis:11
+alexia	cso	lis:11
+criminals:11
+light:11
+hmm:11
+eagle:11
+decided:11
+arguing:12
+coming:12
+mouth:12
+occur:12
+play:12
+home:12
+netcom:12
+top:12
+41:12
+arizona:12
+arizona	james:10
+innocents:12
+philosophy:12
+37:12
+existing:12
+happens:12
+brian:12
+levels:12
+request:12
+run:12
+yours:12
+27:12
+01:12
+01	rusnews:9
+01	cambridge:9
+rusnews	01	cambridge:9
+01	consultants:9
+rusnews	01	consultants:9
+cambridge	01	consultants:9
+rusnews	cambridge	01	consultants:9
+standards:12
+below:12
+answers:12
+email:12
+huh:12
+anybody:12
+code:12
+ideas:12
+morals:12
+side:12
+ways:12
+built:12
+kept:12
+kept	lie:9
+kept	hearing:9
+kept	next:10
+thousands:12
+german:12
+29:12
+38:12
+posters:12
+interpretations:12
+somehow:12
+bother:12
+fuller:12
+fuller	dave:12
+instinctive:12
+acts:12
+contradict:12
+rarely:12
+class:12
+gone:12
+intent:12
+realize:12
+specific:12
+articles:12
+solely:12
+official:12
+straight:12
+35:12
+risk:12
+base:12
+believer:12
+uunet:12
+agency:12
+suffering:12
+pl6:12
+pl6	unix:9
+tin	pl6	unix:9
+bil	pl6	unix:9
+conner	pl6	unix:9
+tin	bil	pl6	unix:9
+tin	conner	pl6	unix:9
+bil	conner	pl6	unix:9
+tin	bil	conner	pl6	unix:9
+pl6	users:9
+tin	pl6	users:9
+bil	pl6	users:9
+conner	pl6	users:9
+unix	pl6	users:9
+tin	bil	pl6	users:9
+tin	conner	pl6	users:9
+tin	unix	pl6	users:9
+bil	conner	pl6	users:9
+bil	unix	pl6	users:9
+conner	unix	pl6	users:9
+tin	bil	conner	pl6	users:9
+tin	bil	unix	pl6	users:9
+tin	conner	unix	pl6	users:9
+bil	conner	unix	pl6	users:9
+tin	bil	conner	unix	pl6	users:9
+pl6	bil:10
+tin	pl6	bil:10
+pl6	conner:10
+tin	pl6	conner:10
+bil	pl6	conner:10
+tin	bil	pl6	conner:10
+pl6	tin:12
+sometimes:12
+theism:12
+material:12
+principles:12
+bunch:12
+tend:12
+causes:12
+uses:12
+points:12
+commit:12
+strife:12
+strife	brothers:11
+strife	closed:11
+brothers	strife	closed:11
+strife	pray:11
+brothers	strife	pray:11
+closed	strife	pray:11
+brothers	closed	strife	pray:11
+serious:12
+justification:12
+readers:12
+took:12
+major:12
+boy:12
+boy	soc:9
+boy	princeton:9
+soc	boy	princeton:9
+boy	al:9
+soc	boy	al:9
+princeton	boy	al:9
+soc	princeton	boy	al:9
+boy	et:9
+soc	boy	et:9
+princeton	boy	et:9
+al	boy	et:9
+soc	princeton	boy	et:9
+soc	al	boy	et:9
+princeton	al	boy	et:9
+soc	princeton	al	boy	et:9
+decision:12
+contain:12
+amount:13
+description:13
+disagree:13
+jehovah:13
+jehovah	witnesses:12
+object:13
+visit:13
+visit	witnesses:11
+visit	jehovah:11
+witnesses	visit	jehovah:11
+punish:13
+software:13
+austin:13
+suffer:13
+arromdee:13
+arromdee	jhu:9
+ken	arromdee	jhu:9
+arromdee	ken:13
+former:13
+personally:13
+angels:13
+angels	student:9
+angels	tells:9
+student	angels	tells:9
+special:13
+theology:13
+theology	big:9
+business:13
+convince:13
+significant:13
+teachings:13
+sentence:13
+comments:13
+22:13
+happened:13
+memory:13
+third:13
+nanci:13
+nanci	ann:13
+nanci	miller:13
+ann	nanci	miller:13
+animal:13
+survival:13
+wild:13
+bissda:13
+bissda	lunatic:11
+dan	bissda	lunatic:11
+bissell	bissda	lunatic:11
+lawrence	bissda	lunatic:11
+dan	bissell	bissda	lunatic:11
+dan	lawrence	bissda	lunatic:11
+bissell	lawrence	bissda	lunatic:11
+dan	bissell	lawrence	bissda	lunatic:11
+bissda	dan:13
+bissda	bissell:13
+dan	bissda	bissell:13
+bissda	lawrence:13
+dan	bissda	lawrence:13
+bissell	bissda	lawrence:13
+dan	bissell	bissda	lawrence:13
+fit:13
+ie:13
+lying:13
+millions:13
+depends:13
+leave:13
+tried:13
+source:13
+accurate:13
+pay:13
+child:13
+agreed:13
+refer:13
+13:13
+random:13
+concerned:13
+topic:13
+listen:13
+fault:13
+supposedly:13
+billion:13
+michael:13
+okay:13
+raise:13
+easy:13
+silly:13
+dating:13
+leaders:13
+gospel:13
+gospel	dating:12
+mimsy:13
+file:13
+study:13
+intellectual:13
+walla:13
+walla	date:10
+college	walla	date:10
+healta	walla	date:10
+healy	walla	date:10
+college	healta	walla	date:10
+college	healy	walla	date:10
+healta	healy	walla	date:10
+college	healta	healy	walla	date:10
+walla	healta:12
+college	walla	healta:12
+walla	healy:12
+college	walla	healy:12
+healta	walla	healy:12
+college	healta	walla	healy:12
+walla	college:13
+mistake:13
+explicitly:13
+engineering:13
+humanity:13
+giving:13
+suggest:13
+totally:13
+guilty:13
+pl9:13
+pl9	bil:11
+tin	pl9	bil:11
+pl9	conner:11
+tin	pl9	conner:11
+bil	pl9	conner:11
+tin	bil	pl9	conner:11
+pl9	unix:11
+tin	pl9	unix:11
+bil	pl9	unix:11
+conner	pl9	unix:11
+tin	bil	pl9	unix:11
+tin	conner	pl9	unix:11
+bil	conner	pl9	unix:11
+tin	bil	conner	pl9	unix:11
+pl9	users:11
+tin	pl9	users:11
+bil	pl9	users:11
+conner	pl9	users:11
+unix	pl9	users:11
+tin	bil	pl9	users:11
+tin	conner	pl9	users:11
+tin	unix	pl9	users:11
+bil	conner	pl9	users:11
+bil	unix	pl9	users:11
+conner	unix	pl9	users:11
+tin	bil	conner	pl9	users:11
+tin	bil	unix	pl9	users:11
+tin	conner	unix	pl9	users:11
+bil	conner	unix	pl9	users:11
+tin	bil	conner	unix	pl9	users:11
+pl9	tin:13
+catholic:14
+easily:14
+pink:14
+truly:14
+usual:14
+putting:14
+dept:14
+absurd:14
+learn:14
+jhu:14
+jhu	ken:9
+poster:14
+high:14
+stories:14
+latter:14
+latter	level:10
+sufficient:14
+head:14
+khomeini:14
+understanding:14
+agnostics:14
+agnostics	amusing:11
+interest:14
+du:14
+justified:14
+nyx:14
+nyx	du:14
+hearing:14
+hearing	entire:9
+hearing	entire	lie:9
+hearing	wasn:10
+hearing	lie:10
+hearing	lie	wasn:9
+year:14
+required:14
+thinks:14
+pompous:14
+pompous	ass:13
+copy:14
+matters:14
+reject:14
+capital:14
+complete:14
+explanation:14
+hardly:14
+somewhat:14
+answered:14
+various:14
+force:14
+related:14
+british:14
+quotes:14
+inherent:14
+alexia:14
+alexia	2000:9
+alexia	mike:13
+lis:14
+lis	2000:9
+lis	2000	alexia:9
+lis	mike:13
+alexia	lis	mike:13
+lis	alexia:14
+changed:14
+create:14
+facts:14
+money:14
+except:14
+nobody:14
+showing:14
+apart:14
+destroy:14
+destroy	became:9
+research:14
+attack:14
+type:14
+basic:14
+absolutely:14
+effort:14
+effort	dan:9
+effort	became:9
+definitions:15
+knowing:15
+shows:15
+woman:15
+becomes:15
+sound:15
+ken:15
+notice:15
+outside:15
+viewpoint:15
+useful:15
+consultants:15
+consultants	rusnews:9
+cambridge	consultants	rusnews:9
+consultants	cambridge:15
+during:15
+amusing:15
+recognize:15
+author:15
+send:15
+survive:15
+america:15
+community:15
+noted:15
+wait:15
+lawrence:15
+lawrence	dan:13
+lawrence	bissell:13
+dan	lawrence	bissell:13
+lunatic:15
+lunatic	lawrence:11
+dan	lunatic	lawrence:11
+bissell	lunatic	lawrence:11
+dan	bissell	lunatic	lawrence:11
+lunatic	dan:12
+lunatic	bissell:12
+dan	lunatic	bissell:12
+31:15
+contrary:15
+relevant:15
+american:15
+looked:15
+sounds:15
+apparently:15
+mac:15
+regards:15
+positive:15
+authors:15
+objectively:15
+concerning:15
+et:15
+et	soc:9
+al	et	soc:9
+et	princeton:9
+al	et	princeton:9
+soc	et	princeton:9
+al	soc	et	princeton:9
+et	al:12
+believers:15
+issues:15
+fellow:15
+mike:15
+analogy:15
+including:15
+came:15
+continue:15
+p00261:15
+p00261	date:13
+psilink	p00261	date:13
+knowles	p00261	date:13
+psilink	knowles	p00261	date:13
+p00261	psilink:15
+p00261	knowles:15
+psilink	p00261	knowles:15
+became:15
+physical:15
+produce:15
+claiming:15
+charge:15
+available:15
+title:15
+pray:15
+pray	brothers:11
+closed	pray	brothers:11
+pray	closed:12
+al:15
+al	soc:9
+al	princeton:9
+soc	al	princeton:9
+close:15
+looking:15
+single:15
+beings:16
+choose:16
+consistent:16
+greater:16
+harm:16
+logically:16
+specifically:16
+taking:16
+thanks:16
+hell:16
+miller:16
+miller	ann:14
+determine:16
+generally:16
+crime:16
+boston:16
+boston	physics:16
+boston	department:16
+physics	boston	department:16
+deal:16
+cambridge:16
+cambridge	rusnews:9
+died:16
+short:16
+short	stop:9
+dead:16
+difficult:16
+needs:16
+bissell:16
+bissell	keywords:11
+dan	bissell	keywords:11
+bissell	dan:16
+drawn:16
+hitler:16
+seeing:16
+seeing	lie:9
+seeing	wasn:10
+write:16
+fear:16
+mail:16
+knew:16
+somewhere:16
+space:16
+asking:16
+difference:16
+save:16
+horus:16
+horus	dwyer:15
+uucp	horus	dwyer:15
+d012s658	horus	dwyer:15
+ap	horus	dwyer:15
+uucp	d012s658	horus	dwyer:15
+uucp	ap	horus	dwyer:15
+d012s658	ap	horus	dwyer:15
+uucp	d012s658	ap	horus	dwyer:15
+horus	uucp:16
+horus	d012s658:16
+uucp	horus	d012s658:16
+horus	ap:16
+uucp	horus	ap:16
+d012s658	horus	ap:16
+uucp	d012s658	horus	ap:16
+mchp:16
+mchp	dwyer:15
+uucp	mchp	dwyer:15
+d012s658	mchp	dwyer:15
+ap	mchp	dwyer:15
+horus	mchp	dwyer:15
+uucp	d012s658	mchp	dwyer:15
+uucp	ap	mchp	dwyer:15
+uucp	horus	mchp	dwyer:15
+d012s658	ap	mchp	dwyer:15
+d012s658	horus	mchp	dwyer:15
+ap	horus	mchp	dwyer:15
+uucp	d012s658	ap	mchp	dwyer:15
+uucp	d012s658	horus	mchp	dwyer:15
+uucp	ap	horus	mchp	dwyer:15
+d012s658	ap	horus	mchp	dwyer:15
+uucp	d012s658	ap	horus	mchp	dwyer:15
+mchp	uucp:16
+mchp	d012s658:16
+uucp	mchp	d012s658:16
+mchp	ap:16
+uucp	mchp	ap:16
+d012s658	mchp	ap:16
+uucp	d012s658	mchp	ap:16
+mchp	horus:16
+uucp	mchp	horus:16
+d012s658	mchp	horus:16
+ap	mchp	horus:16
+uucp	d012s658	mchp	horus:16
+uucp	ap	mchp	horus:16
+d012s658	ap	mchp	horus:16
+uucp	d012s658	ap	mchp	horus:16
+sni:16
+sni	dwyer:15
+uucp	sni	dwyer:15
+d012s658	sni	dwyer:15
+ap	sni	dwyer:15
+horus	sni	dwyer:15
+mchp	sni	dwyer:15
+uucp	d012s658	sni	dwyer:15
+uucp	ap	sni	dwyer:15
+uucp	horus	sni	dwyer:15
+uucp	mchp	sni	dwyer:15
+d012s658	ap	sni	dwyer:15
+d012s658	horus	sni	dwyer:15
+d012s658	mchp	sni	dwyer:15
+ap	horus	sni	dwyer:15
+ap	mchp	sni	dwyer:15
+horus	mchp	sni	dwyer:15
+uucp	d012s658	ap	sni	dwyer:15
+uucp	d012s658	horus	sni	dwyer:15
+uucp	d012s658	mchp	sni	dwyer:15
+uucp	ap	horus	sni	dwyer:15
+uucp	ap	mchp	sni	dwyer:15
+uucp	horus	mchp	sni	dwyer:15
+d012s658	ap	horus	sni	dwyer:15
+d012s658	ap	mchp	sni	dwyer:15
+d012s658	horus	mchp	sni	dwyer:15
+ap	horus	mchp	sni	dwyer:15
+uucp	d012s658	ap	horus	sni	dwyer:15
+uucp	d012s658	ap	mchp	sni	dwyer:15
+uucp	d012s658	horus	mchp	sni	dwyer:15
+uucp	ap	horus	mchp	sni	dwyer:15
+d012s658	ap	horus	mchp	sni	dwyer:15
+uucp	d012s658	ap	horus	mchp	sni	dwyer:15
+sni	uucp:16
+sni	d012s658:16
+uucp	sni	d012s658:16
+sni	ap:16
+uucp	sni	ap:16
+d012s658	sni	ap:16
+uucp	d012s658	sni	ap:16
+sni	horus:16
+uucp	sni	horus:16
+d012s658	sni	horus:16
+ap	sni	horus:16
+uucp	d012s658	sni	horus:16
+uucp	ap	sni	horus:16
+d012s658	ap	sni	horus:16
+uucp	d012s658	ap	sni	horus:16
+sni	mchp:16
+uucp	sni	mchp:16
+d012s658	sni	mchp:16
+ap	sni	mchp:16
+horus	sni	mchp:16
+uucp	d012s658	sni	mchp:16
+uucp	ap	sni	mchp:16
+uucp	horus	sni	mchp:16
+d012s658	ap	sni	mchp:16
+d012s658	horus	sni	mchp:16
+ap	horus	sni	mchp:16
+uucp	d012s658	ap	sni	mchp:16
+uucp	d012s658	horus	sni	mchp:16
+uucp	ap	horus	sni	mchp:16
+d012s658	ap	horus	sni	mchp:16
+uucp	d012s658	ap	horus	sni	mchp:16
+views:16
+lloyd:16
+rape:16
+knowles:16
+knowles	date:13
+psilink	knowles	date:13
+knowles	psilink:15
+practice:16
+several:16
+contradictory:16
+quran:16
+mr:16
+described:16
+described	language:11
+directly:16
+17:16
+princeton:16
+princeton	soc:10
+acceptable:16
+10:16
+involved:16
+believed:17
+biblical:17
+contradiction:17
+deletion:17
+deletion	technical:12
+deletion	braunschweig:12
+technical	deletion	braunschweig:12
+error:17
+happen:17
+holy:17
+unfortunately:17
+unfortunately	events:9
+witnesses:17
+lead:17
+bnr:17
+bnr	ca:11
+respond:17
+states:17
+assertion:17
+committed:17
+expect:17
+experience:17
+moment:17
+moment	lie:9
+none:17
+usa:17
+anecdote:17
+anecdote	inimitable:10
+bureau:17
+bureau	cheers:17
+bureau	private:17
+cheers	bureau	private:17
+bureau	activities:17
+cheers	bureau	activities:17
+private	bureau	activities:17
+cheers	private	bureau	activities:17
+bureau	alink:17
+cheers	bureau	alink:17
+private	bureau	alink:17
+activities	bureau	alink:17
+cheers	private	bureau	alink:17
+cheers	activities	bureau	alink:17
+private	activities	bureau	alink:17
+cheers	private	activities	bureau	alink:17
+bureau	ksand:17
+cheers	bureau	ksand:17
+private	bureau	ksand:17
+activities	bureau	ksand:17
+alink	bureau	ksand:17
+cheers	private	bureau	ksand:17
+cheers	activities	bureau	ksand:17
+cheers	alink	bureau	ksand:17
+private	activities	bureau	ksand:17
+private	alink	bureau	ksand:17
+activities	alink	bureau	ksand:17
+cheers	private	activities	bureau	ksand:17
+cheers	private	alink	bureau	ksand:17
+cheers	activities	alink	bureau	ksand:17
+private	activities	alink	bureau	ksand:17
+cheers	private	activities	alink	bureau	ksand:17
+cookamunga:17
+cookamunga	cheers:17
+cookamunga	private:17
+cheers	cookamunga	private:17
+cookamunga	activities:17
+cheers	cookamunga	activities:17
+private	cookamunga	activities:17
+cheers	private	cookamunga	activities:17
+cookamunga	alink:17
+cheers	cookamunga	alink:17
+private	cookamunga	alink:17
+activities	cookamunga	alink:17
+cheers	private	cookamunga	alink:17
+cheers	activities	cookamunga	alink:17
+private	activities	cookamunga	alink:17
+cheers	private	activities	cookamunga	alink:17
+cookamunga	ksand:17
+cheers	cookamunga	ksand:17
+private	cookamunga	ksand:17
+activities	cookamunga	ksand:17
+alink	cookamunga	ksand:17
+cheers	private	cookamunga	ksand:17
+cheers	activities	cookamunga	ksand:17
+cheers	alink	cookamunga	ksand:17
+private	activities	cookamunga	ksand:17
+private	alink	cookamunga	ksand:17
+activities	alink	cookamunga	ksand:17
+cheers	private	activities	cookamunga	ksand:17
+cheers	private	alink	cookamunga	ksand:17
+cheers	activities	alink	cookamunga	ksand:17
+private	activities	alink	cookamunga	ksand:17
+cheers	private	activities	alink	cookamunga	ksand:17
+cookamunga	bureau:17
+cheers	cookamunga	bureau:17
+private	cookamunga	bureau:17
+activities	cookamunga	bureau:17
+alink	cookamunga	bureau:17
+ksand	cookamunga	bureau:17
+cheers	private	cookamunga	bureau:17
+cheers	activities	cookamunga	bureau:17
+cheers	alink	cookamunga	bureau:17
+cheers	ksand	cookamunga	bureau:17
+private	activities	cookamunga	bureau:17
+private	alink	cookamunga	bureau:17
+private	ksand	cookamunga	bureau:17
+activities	alink	cookamunga	bureau:17
+activities	ksand	cookamunga	bureau:17
+alink	ksand	cookamunga	bureau:17
+cheers	private	activities	cookamunga	bureau:17
+cheers	private	alink	cookamunga	bureau:17
+cheers	private	ksand	cookamunga	bureau:17
+cheers	activities	alink	cookamunga	bureau:17
+cheers	activities	ksand	cookamunga	bureau:17
+cheers	alink	ksand	cookamunga	bureau:17
+private	activities	alink	cookamunga	bureau:17
+private	activities	ksand	cookamunga	bureau:17
+private	alink	ksand	cookamunga	bureau:17
+activities	alink	ksand	cookamunga	bureau:17
+cheers	private	activities	alink	cookamunga	bureau:17
+cheers	private	activities	ksand	cookamunga	bureau:17
+cheers	private	alink	ksand	cookamunga	bureau:17
+cheers	activities	alink	ksand	cookamunga	bureau:17
+private	activities	alink	ksand	cookamunga	bureau:17
+cheers	private	activities	alink	ksand	cookamunga	bureau:17
+perfectly:17
+tourist:17
+tourist	cheers:17
+tourist	private:17
+cheers	tourist	private:17
+tourist	activities:17
+cheers	tourist	activities:17
+private	tourist	activities:17
+cheers	private	tourist	activities:17
+tourist	alink:17
+cheers	tourist	alink:17
+private	tourist	alink:17
+activities	tourist	alink:17
+cheers	private	tourist	alink:17
+cheers	activities	tourist	alink:17
+private	activities	tourist	alink:17
+cheers	private	activities	tourist	alink:17
+tourist	ksand:17
+cheers	tourist	ksand:17
+private	tourist	ksand:17
+activities	tourist	ksand:17
+alink	tourist	ksand:17
+cheers	private	tourist	ksand:17
+cheers	activities	tourist	ksand:17
+cheers	alink	tourist	ksand:17
+private	activities	tourist	ksand:17
+private	alink	tourist	ksand:17
+activities	alink	tourist	ksand:17
+cheers	private	activities	tourist	ksand:17
+cheers	private	alink	tourist	ksand:17
+cheers	activities	alink	tourist	ksand:17
+private	activities	alink	tourist	ksand:17
+cheers	private	activities	alink	tourist	ksand:17
+tourist	bureau:17
+cheers	tourist	bureau:17
+private	tourist	bureau:17
+activities	tourist	bureau:17
+alink	tourist	bureau:17
+ksand	tourist	bureau:17
+cheers	private	tourist	bureau:17
+cheers	activities	tourist	bureau:17
+cheers	alink	tourist	bureau:17
+cheers	ksand	tourist	bureau:17
+private	activities	tourist	bureau:17
+private	alink	tourist	bureau:17
+private	ksand	tourist	bureau:17
+activities	alink	tourist	bureau:17
+activities	ksand	tourist	bureau:17
+alink	ksand	tourist	bureau:17
+cheers	private	activities	tourist	bureau:17
+cheers	private	alink	tourist	bureau:17
+cheers	private	ksand	tourist	bureau:17
+cheers	activities	alink	tourist	bureau:17
+cheers	activities	ksand	tourist	bureau:17
+cheers	alink	ksand	tourist	bureau:17
+private	activities	alink	tourist	bureau:17
+private	activities	ksand	tourist	bureau:17
+private	alink	ksand	tourist	bureau:17
+activities	alink	ksand	tourist	bureau:17
+cheers	private	activities	alink	tourist	bureau:17
+cheers	private	activities	ksand	tourist	bureau:17
+cheers	private	alink	ksand	tourist	bureau:17
+cheers	activities	alink	ksand	tourist	bureau:17
+private	activities	alink	ksand	tourist	bureau:17
+cheers	private	activities	alink	ksand	tourist	bureau:17
+tourist	cookamunga:17
+cheers	tourist	cookamunga:17
+private	tourist	cookamunga:17
+activities	tourist	cookamunga:17
+alink	tourist	cookamunga:17
+ksand	tourist	cookamunga:17
+bureau	tourist	cookamunga:17
+cheers	private	tourist	cookamunga:17
+cheers	activities	tourist	cookamunga:17
+cheers	alink	tourist	cookamunga:17
+cheers	ksand	tourist	cookamunga:17
+cheers	bureau	tourist	cookamunga:17
+private	activities	tourist	cookamunga:17
+private	alink	tourist	cookamunga:17
+private	ksand	tourist	cookamunga:17
+private	bureau	tourist	cookamunga:17
+activities	alink	tourist	cookamunga:17
+activities	ksand	tourist	cookamunga:17
+activities	bureau	tourist	cookamunga:17
+alink	ksand	tourist	cookamunga:17
+alink	bureau	tourist	cookamunga:17
+ksand	bureau	tourist	cookamunga:17
+cheers	private	activities	tourist	cookamunga:17
+cheers	private	alink	tourist	cookamunga:17
+cheers	private	ksand	tourist	cookamunga:17
+cheers	private	bureau	tourist	cookamunga:17
+cheers	activities	alink	tourist	cookamunga:17
+cheers	activities	ksand	tourist	cookamunga:17
+cheers	activities	bureau	tourist	cookamunga:17
+cheers	alink	ksand	tourist	cookamunga:17
+cheers	alink	bureau	tourist	cookamunga:17
+cheers	ksand	bureau	tourist	cookamunga:17
+private	activities	alink	tourist	cookamunga:17
+private	activities	ksand	tourist	cookamunga:17
+private	activities	bureau	tourist	cookamunga:17
+private	alink	ksand	tourist	cookamunga:17
+private	alink	bureau	tourist	cookamunga:17
+private	ksand	bureau	tourist	cookamunga:17
+activities	alink	ksand	tourist	cookamunga:17
+activities	alink	bureau	tourist	cookamunga:17
+activities	ksand	bureau	tourist	cookamunga:17
+alink	ksand	bureau	tourist	cookamunga:17
+cheers	private	activities	alink	tourist	cookamunga:17
+cheers	private	activities	ksand	tourist	cookamunga:17
+cheers	private	activities	bureau	tourist	cookamunga:17
+cheers	private	alink	ksand	tourist	cookamunga:17
+cheers	private	alink	bureau	tourist	cookamunga:17
+cheers	private	ksand	bureau	tourist	cookamunga:17
+cheers	activities	alink	ksand	tourist	cookamunga:17
+cheers	activities	alink	bureau	tourist	cookamunga:17
+cheers	activities	ksand	bureau	tourist	cookamunga:17
+cheers	alink	ksand	bureau	tourist	cookamunga:17
+private	activities	alink	ksand	tourist	cookamunga:17
+private	activities	alink	bureau	tourist	cookamunga:17
+private	activities	ksand	bureau	tourist	cookamunga:17
+private	alink	ksand	bureau	tourist	cookamunga:17
+activities	alink	ksand	bureau	tourist	cookamunga:17
+cheers	private	activities	alink	ksand	tourist	cookamunga:17
+cheers	private	activities	alink	bureau	tourist	cookamunga:17
+cheers	private	activities	ksand	bureau	tourist	cookamunga:17
+cheers	private	alink	ksand	bureau	tourist	cookamunga:17
+cheers	activities	alink	ksand	bureau	tourist	cookamunga:17
+private	activities	alink	ksand	bureau	tourist	cookamunga:17
+cheers	private	activities	alink	ksand	bureau	tourist	cookamunga:17
+countries:17
+hence:17
+looks:17
+navy:17
+brothers:17
+member:17
+elsewhere:17
+elsewhere	next:10
+modern:17
+ass:17
+recently:17
+requires:17
+current:17
+government:17
+presented:17
+places:17
+born:17
+ap:17
+ap	dwyer:15
+uucp	ap	dwyer:15
+d012s658	ap	dwyer:15
+uucp	d012s658	ap	dwyer:15
+ap	uucp:16
+ap	d012s658:16
+uucp	ap	d012s658:16
+50:17
+irrelevant:17
+consequences:17
+psilink:17
+psilink	date:13
+fairly:17
+told:17
+closed:17
+closed	brothers:12
+writing:17
+west:17
+ability:18
+events:18
+events	accepted:9
+chris:18
+suppose:18
+story:18
+family:18
+alink:18
+alink	cheers:18
+alink	private:18
+cheers	alink	private:18
+alink	activities:18
+cheers	alink	activities:18
+private	alink	activities:18
+cheers	private	alink	activities:18
+ksand:18
+ksand	cheers:18
+ksand	private:18
+cheers	ksand	private:18
+ksand	activities:18
+cheers	ksand	activities:18
+private	ksand	activities:18
+cheers	private	ksand	activities:18
+ksand	alink:18
+cheers	ksand	alink:18
+private	ksand	alink:18
+activities	ksand	alink:18
+cheers	private	ksand	alink:18
+cheers	activities	ksand	alink:18
+private	activities	ksand	alink:18
+cheers	private	activities	ksand	alink:18
+court:18
+decide:18
+individual:18
+pointed:18
+intended:18
+guy:18
+higher:18
+newsgroup:18
+shouldn:18
+postings:18
+debate:18
+rights:18
+ca:18
+taken:18
+job:18
+direct:18
+33:18
+middle:18
+stop:18
+stop	ones:9
+ignorance:18
+1993apr15:18
+require:18
+healta:18
+healta	date:10
+college	healta	date:10
+healta	college:12
+healy:18
+healy	date:10
+healta	healy	date:10
+college	healy	date:10
+healta	college	healy	date:10
+healy	college:12
+healta	healy	college:12
+healy	healta:18
+couple:18
+actions:18
+soc:18
+trust:18
+choice:19
+psu:19
+psuvm:19
+psuvm	psu:19
+absolute:19
+discuss:19
+1993apr3:19
+turn:19
+posted:19
+process:19
+control:19
+keywords:19
+keywords	dan:11
+claimed:19
+line:19
+face:19
+help:19
+alternative:19
+result:19
+dave:19
+willing:19
+sun:19
+principle:19
+30:19
+allow:20
+allow	supposed:9
+whose:20
+local:20
+proof:20
+proof	ones:9
+proof	nor:9
+meant:20
+gave:20
+marriage:20
+marriage	allowed:11
+khan:20
+myself:20
+groups:20
+rusnews:20
+weren:20
+nice:20
+account:20
+ann:20
+school:20
+entirely:20
+disclaimer:20
+examples:20
+reasoning:20
+americans:20
+language:20
+reality:20
+stated:20
+26:20
+gets:20
+interpretation:20
+d012s658:20
+d012s658	2000:11
+d012s658	2000	dwyer:10
+uucp	d012s658	2000	dwyer:10
+d012s658	2000	uucp:11
+d012s658	dwyer:19
+uucp	d012s658	dwyer:19
+d012s658	uucp:20
+judge:20
+majority:20
+asked:20
+asked	effect:9
+shown:20
+works:20
+early:20
+held:20
+cases:20
+completely:21
+completely	already:9
+imply:21
+possibility:21
+possibility	happy:9
+terms:21
+started:21
+standard:21
+australia:21
+monu6:21
+particularly:21
+provide:21
+activities:21
+activities	cheers:18
+activities	private:18
+cheers	activities	private:18
+notion:21
+common:21
+dwyer:21
+dwyer	2000:10
+theist:21
+entire:21
+entire	wasn:9
+entire	dan:9
+earlier:21
+dan:21
+lie:21
+lie	alone:9
+lie	entire:9
+lie	wasn:10
+respect:21
+beaverton:21
+beaverton	bob:16
+stay	beaverton	bob:16
+beaverton	sea:16
+stay	beaverton	sea:16
+bob	beaverton	sea:16
+stay	bob	beaverton	sea:16
+beaverton	blew:16
+stay	beaverton	blew:16
+bob	beaverton	blew:16
+sea	beaverton	blew:16
+stay	bob	beaverton	blew:16
+stay	sea	beaverton	blew:16
+bob	sea	beaverton	blew:16
+stay	bob	sea	beaverton	blew:16
+beaverton	stay:17
+bronx:21
+bronx	beaverton:16
+stay	bronx	beaverton:16
+bob	bronx	beaverton:16
+sea	bronx	beaverton:16
+blew	bronx	beaverton:16
+stay	bob	bronx	beaverton:16
+stay	sea	bronx	beaverton:16
+stay	blew	bronx	beaverton:16
+bob	sea	bronx	beaverton:16
+bob	blew	bronx	beaverton:16
+sea	blew	bronx	beaverton:16
+stay	bob	sea	bronx	beaverton:16
+stay	bob	blew	bronx	beaverton:16
+stay	sea	blew	bronx	beaverton:16
+bob	sea	blew	bronx	beaverton:16
+stay	bob	sea	blew	bronx	beaverton:16
+bronx	stay:21
+bronx	bob:21
+stay	bronx	bob:21
+bronx	sea:21
+stay	bronx	sea:21
+bob	bronx	sea:21
+stay	bob	bronx	sea:21
+bronx	blew:21
+stay	bronx	blew:21
+bob	bronx	blew:21
+sea	bronx	blew:21
+stay	bob	bronx	blew:21
+stay	sea	bronx	blew:21
+bob	sea	bronx	blew:21
+stay	bob	sea	bronx	blew:21
+manhattan:21
+manhattan	beaverton:16
+stay	manhattan	beaverton:16
+bob	manhattan	beaverton:16
+sea	manhattan	beaverton:16
+blew	manhattan	beaverton:16
+bronx	manhattan	beaverton:16
+stay	bob	manhattan	beaverton:16
+stay	sea	manhattan	beaverton:16
+stay	blew	manhattan	beaverton:16
+stay	bronx	manhattan	beaverton:16
+bob	sea	manhattan	beaverton:16
+bob	blew	manhattan	beaverton:16
+bob	bronx	manhattan	beaverton:16
+sea	blew	manhattan	beaverton:16
+sea	bronx	manhattan	beaverton:16
+blew	bronx	manhattan	beaverton:16
+stay	bob	sea	manhattan	beaverton:16
+stay	bob	blew	manhattan	beaverton:16
+stay	bob	bronx	manhattan	beaverton:16
+stay	sea	blew	manhattan	beaverton:16
+stay	sea	bronx	manhattan	beaverton:16
+stay	blew	bronx	manhattan	beaverton:16
+bob	sea	blew	manhattan	beaverton:16
+bob	sea	bronx	manhattan	beaverton:16
+bob	blew	bronx	manhattan	beaverton:16
+sea	blew	bronx	manhattan	beaverton:16
+stay	bob	sea	blew	manhattan	beaverton:16
+stay	bob	sea	bronx	manhattan	beaverton:16
+stay	bob	blew	bronx	manhattan	beaverton:16
+stay	sea	blew	bronx	manhattan	beaverton:16
+bob	sea	blew	bronx	manhattan	beaverton:16
+stay	bob	sea	blew	bronx	manhattan	beaverton:16
+manhattan	stay:21
+manhattan	bob:21
+stay	manhattan	bob:21
+manhattan	sea:21
+stay	manhattan	sea:21
+bob	manhattan	sea:21
+stay	bob	manhattan	sea:21
+manhattan	blew:21
+stay	manhattan	blew:21
+bob	manhattan	blew:21
+sea	manhattan	blew:21
+stay	bob	manhattan	blew:21
+stay	sea	manhattan	blew:21
+bob	sea	manhattan	blew:21
+stay	bob	sea	manhattan	blew:21
+manhattan	bronx:21
+stay	manhattan	bronx:21
+bob	manhattan	bronx:21
+sea	manhattan	bronx:21
+blew	manhattan	bronx:21
+stay	bob	manhattan	bronx:21
+stay	sea	manhattan	bronx:21
+stay	blew	manhattan	bronx:21
+bob	sea	manhattan	bronx:21
+bob	blew	manhattan	bronx:21
+sea	blew	manhattan	bronx:21
+stay	bob	sea	manhattan	bronx:21
+stay	bob	blew	manhattan	bronx:21
+stay	sea	blew	manhattan	bronx:21
+bob	sea	blew	manhattan	bronx:21
+stay	bob	sea	blew	manhattan	bronx:21
+queens:21
+queens	beaverton:16
+stay	queens	beaverton:16
+bob	queens	beaverton:16
+sea	queens	beaverton:16
+blew	queens	beaverton:16
+bronx	queens	beaverton:16
+manhattan	queens	beaverton:16
+stay	bob	queens	beaverton:16
+stay	sea	queens	beaverton:16
+stay	blew	queens	beaverton:16
+stay	bronx	queens	beaverton:16
+stay	manhattan	queens	beaverton:16
+bob	sea	queens	beaverton:16
+bob	blew	queens	beaverton:16
+bob	bronx	queens	beaverton:16
+bob	manhattan	queens	beaverton:16
+sea	blew	queens	beaverton:16
+sea	bronx	queens	beaverton:16
+sea	manhattan	queens	beaverton:16
+blew	bronx	queens	beaverton:16
+blew	manhattan	queens	beaverton:16
+bronx	manhattan	queens	beaverton:16
+stay	bob	sea	queens	beaverton:16
+stay	bob	blew	queens	beaverton:16
+stay	bob	bronx	queens	beaverton:16
+stay	bob	manhattan	queens	beaverton:16
+stay	sea	blew	queens	beaverton:16
+stay	sea	bronx	queens	beaverton:16
+stay	sea	manhattan	queens	beaverton:16
+stay	blew	bronx	queens	beaverton:16
+stay	blew	manhattan	queens	beaverton:16
+stay	bronx	manhattan	queens	beaverton:16
+bob	sea	blew	queens	beaverton:16
+bob	sea	bronx	queens	beaverton:16
+bob	sea	manhattan	queens	beaverton:16
+bob	blew	bronx	queens	beaverton:16
+bob	blew	manhattan	queens	beaverton:16
+bob	bronx	manhattan	queens	beaverton:16
+sea	blew	bronx	queens	beaverton:16
+sea	blew	manhattan	queens	beaverton:16
+sea	bronx	manhattan	queens	beaverton:16
+blew	bronx	manhattan	queens	beaverton:16
+stay	bob	sea	blew	queens	beaverton:16
+stay	bob	sea	bronx	queens	beaverton:16
+stay	bob	sea	manhattan	queens	beaverton:16
+stay	bob	blew	bronx	queens	beaverton:16
+stay	bob	blew	manhattan	queens	beaverton:16
+stay	bob	bronx	manhattan	queens	beaverton:16
+stay	sea	blew	bronx	queens	beaverton:16
+stay	sea	blew	manhattan	queens	beaverton:16
+stay	sea	bronx	manhattan	queens	beaverton:16
+stay	blew	bronx	manhattan	queens	beaverton:16
+bob	sea	blew	bronx	queens	beaverton:16
+bob	sea	blew	manhattan	queens	beaverton:16
+bob	sea	bronx	manhattan	queens	beaverton:16
+bob	blew	bronx	manhattan	queens	beaverton:16
+sea	blew	bronx	manhattan	queens	beaverton:16
+stay	bob	sea	blew	bronx	queens	beaverton:16
+stay	bob	sea	blew	manhattan	queens	beaverton:16
+stay	bob	sea	bronx	manhattan	queens	beaverton:16
+stay	bob	blew	bronx	manhattan	queens	beaverton:16
+stay	sea	blew	bronx	manhattan	queens	beaverton:16
+bob	sea	blew	bronx	manhattan	queens	beaverton:16
+stay	bob	sea	blew	bronx	manhattan	queens	beaverton:16
+queens	stay:21
+queens	bob:21
+stay	queens	bob:21
+queens	sea:21
+stay	queens	sea:21
+bob	queens	sea:21
+stay	bob	queens	sea:21
+queens	blew:21
+stay	queens	blew:21
+bob	queens	blew:21
+sea	queens	blew:21
+stay	bob	queens	blew:21
+stay	sea	queens	blew:21
+bob	sea	queens	blew:21
+stay	bob	sea	queens	blew:21
+queens	bronx:21
+stay	queens	bronx:21
+bob	queens	bronx:21
+sea	queens	bronx:21
+blew	queens	bronx:21
+stay	bob	queens	bronx:21
+stay	sea	queens	bronx:21
+stay	blew	queens	bronx:21
+bob	sea	queens	bronx:21
+bob	blew	queens	bronx:21
+sea	blew	queens	bronx:21
+stay	bob	sea	queens	bronx:21
+stay	bob	blew	queens	bronx:21
+stay	sea	blew	queens	bronx:21
+bob	sea	blew	queens	bronx:21
+stay	bob	sea	blew	queens	bronx:21
+queens	manhattan:21
+stay	queens	manhattan:21
+bob	queens	manhattan:21
+sea	queens	manhattan:21
+blew	queens	manhattan:21
+bronx	queens	manhattan:21
+stay	bob	queens	manhattan:21
+stay	sea	queens	manhattan:21
+stay	blew	queens	manhattan:21
+stay	bronx	queens	manhattan:21
+bob	sea	queens	manhattan:21
+bob	blew	queens	manhattan:21
+bob	bronx	queens	manhattan:21
+sea	blew	queens	manhattan:21
+sea	bronx	queens	manhattan:21
+blew	bronx	queens	manhattan:21
+stay	bob	sea	queens	manhattan:21
+stay	bob	blew	queens	manhattan:21
+stay	bob	bronx	queens	manhattan:21
+stay	sea	blew	queens	manhattan:21
+stay	sea	bronx	queens	manhattan:21
+stay	blew	bronx	queens	manhattan:21
+bob	sea	blew	queens	manhattan:21
+bob	sea	bronx	queens	manhattan:21
+bob	blew	bronx	queens	manhattan:21
+sea	blew	bronx	queens	manhattan:21
+stay	bob	sea	blew	queens	manhattan:21
+stay	bob	sea	bronx	queens	manhattan:21
+stay	bob	blew	bronx	queens	manhattan:21
+stay	sea	blew	bronx	queens	manhattan:21
+bob	sea	blew	bronx	queens	manhattan:21
+stay	bob	sea	blew	bronx	queens	manhattan:21
+sank:21
+sank	beaverton:16
+stay	sank	beaverton:16
+bob	sank	beaverton:16
+sea	sank	beaverton:16
+blew	sank	beaverton:16
+bronx	sank	beaverton:16
+manhattan	sank	beaverton:16
+queens	sank	beaverton:16
+stay	bob	sank	beaverton:16
+stay	sea	sank	beaverton:16
+stay	blew	sank	beaverton:16
+stay	bronx	sank	beaverton:16
+stay	manhattan	sank	beaverton:16
+stay	queens	sank	beaverton:16
+bob	sea	sank	beaverton:16
+bob	blew	sank	beaverton:16
+bob	bronx	sank	beaverton:16
+bob	manhattan	sank	beaverton:16
+bob	queens	sank	beaverton:16
+sea	blew	sank	beaverton:16
+sea	bronx	sank	beaverton:16
+sea	manhattan	sank	beaverton:16
+sea	queens	sank	beaverton:16
+blew	bronx	sank	beaverton:16
+blew	manhattan	sank	beaverton:16
+blew	queens	sank	beaverton:16
+bronx	manhattan	sank	beaverton:16
+bronx	queens	sank	beaverton:16
+manhattan	queens	sank	beaverton:16
+stay	bob	sea	sank	beaverton:16
+stay	bob	blew	sank	beaverton:16
+stay	bob	bronx	sank	beaverton:16
+stay	bob	manhattan	sank	beaverton:16
+stay	bob	queens	sank	beaverton:16
+stay	sea	blew	sank	beaverton:16
+stay	sea	bronx	sank	beaverton:16
+stay	sea	manhattan	sank	beaverton:16
+stay	sea	queens	sank	beaverton:16
+stay	blew	bronx	sank	beaverton:16
+stay	blew	manhattan	sank	beaverton:16
+stay	blew	queens	sank	beaverton:16
+stay	bronx	manhattan	sank	beaverton:16
+stay	bronx	queens	sank	beaverton:16
+stay	manhattan	queens	sank	beaverton:16
+bob	sea	blew	sank	beaverton:16
+bob	sea	bronx	sank	beaverton:16
+bob	sea	manhattan	sank	beaverton:16
+bob	sea	queens	sank	beaverton:16
+bob	blew	bronx	sank	beaverton:16
+bob	blew	manhattan	sank	beaverton:16
+bob	blew	queens	sank	beaverton:16
+bob	bronx	manhattan	sank	beaverton:16
+bob	bronx	queens	sank	beaverton:16
+bob	manhattan	queens	sank	beaverton:16
+sea	blew	bronx	sank	beaverton:16
+sea	blew	manhattan	sank	beaverton:16
+sea	blew	queens	sank	beaverton:16
+sea	bronx	manhattan	sank	beaverton:16
+sea	bronx	queens	sank	beaverton:16
+sea	manhattan	queens	sank	beaverton:16
+blew	bronx	manhattan	sank	beaverton:16
+blew	bronx	queens	sank	beaverton:16
+blew	manhattan	queens	sank	beaverton:16
+bronx	manhattan	queens	sank	beaverton:16
+stay	bob	sea	blew	sank	beaverton:16
+stay	bob	sea	bronx	sank	beaverton:16
+stay	bob	sea	manhattan	sank	beaverton:16
+stay	bob	sea	queens	sank	beaverton:16
+stay	bob	blew	bronx	sank	beaverton:16
+stay	bob	blew	manhattan	sank	beaverton:16
+stay	bob	blew	queens	sank	beaverton:16
+stay	bob	bronx	manhattan	sank	beaverton:16
+stay	bob	bronx	queens	sank	beaverton:16
+stay	bob	manhattan	queens	sank	beaverton:16
+stay	sea	blew	bronx	sank	beaverton:16
+stay	sea	blew	manhattan	sank	beaverton:16
+stay	sea	blew	queens	sank	beaverton:16
+stay	sea	bronx	manhattan	sank	beaverton:16
+stay	sea	bronx	queens	sank	beaverton:16
+stay	sea	manhattan	queens	sank	beaverton:16
+stay	blew	bronx	manhattan	sank	beaverton:16
+stay	blew	bronx	queens	sank	beaverton:16
+stay	blew	manhattan	queens	sank	beaverton:16
+stay	bronx	manhattan	queens	sank	beaverton:16
+bob	sea	blew	bronx	sank	beaverton:16
+bob	sea	blew	manhattan	sank	beaverton:16
+bob	sea	blew	queens	sank	beaverton:16
+bob	sea	bronx	manhattan	sank	beaverton:16
+bob	sea	bronx	queens	sank	beaverton:16
+bob	sea	manhattan	queens	sank	beaverton:16
+bob	blew	bronx	manhattan	sank	beaverton:16
+bob	blew	bronx	queens	sank	beaverton:16
+bob	blew	manhattan	queens	sank	beaverton:16
+bob	bronx	manhattan	queens	sank	beaverton:16
+sea	blew	bronx	manhattan	sank	beaverton:16
+sea	blew	bronx	queens	sank	beaverton:16
+sea	blew	manhattan	queens	sank	beaverton:16
+sea	bronx	manhattan	queens	sank	beaverton:16
+blew	bronx	manhattan	queens	sank	beaverton:16
+stay	bob	sea	blew	bronx	sank	beaverton:16
+stay	bob	sea	blew	manhattan	sank	beaverton:16
+stay	bob	sea	blew	queens	sank	beaverton:16
+stay	bob	sea	bronx	manhattan	sank	beaverton:16
+stay	bob	sea	bronx	queens	sank	beaverton:16
+stay	bob	sea	manhattan	queens	sank	beaverton:16
+stay	bob	blew	bronx	manhattan	sank	beaverton:16
+stay	bob	blew	bronx	queens	sank	beaverton:16
+stay	bob	blew	manhattan	queens	sank	beaverton:16
+stay	bob	bronx	manhattan	queens	sank	beaverton:16
+stay	sea	blew	bronx	manhattan	sank	beaverton:16
+stay	sea	blew	bronx	queens	sank	beaverton:16
+stay	sea	blew	manhattan	queens	sank	beaverton:16
+stay	sea	bronx	manhattan	queens	sank	beaverton:16
+stay	blew	bronx	manhattan	queens	sank	beaverton:16
+bob	sea	blew	bronx	manhattan	sank	beaverton:16
+bob	sea	blew	bronx	queens	sank	beaverton:16
+bob	sea	blew	manhattan	queens	sank	beaverton:16
+bob	sea	bronx	manhattan	queens	sank	beaverton:16
+bob	blew	bronx	manhattan	queens	sank	beaverton:16
+sea	blew	bronx	manhattan	queens	sank	beaverton:16
+stay	bob	sea	blew	bronx	manhattan	sank	beaverton:16
+stay	bob	sea	blew	bronx	queens	sank	beaverton:16
+stay	bob	sea	blew	manhattan	queens	sank	beaverton:16
+stay	bob	sea	bronx	manhattan	queens	sank	beaverton:16
+stay	bob	blew	bronx	manhattan	queens	sank	beaverton:16
+stay	sea	blew	bronx	manhattan	queens	sank	beaverton:16
+bob	sea	blew	bronx	manhattan	queens	sank	beaverton:16
+stay	bob	sea	blew	bronx	manhattan	queens	sank	beaverton:16
+sank	stay:21
+sank	bob:21
+stay	sank	bob:21
+sank	sea:21
+stay	sank	sea:21
+bob	sank	sea:21
+stay	bob	sank	sea:21
+sank	blew:21
+stay	sank	blew:21
+bob	sank	blew:21
+sea	sank	blew:21
+stay	bob	sank	blew:21
+stay	sea	sank	blew:21
+bob	sea	sank	blew:21
+stay	bob	sea	sank	blew:21
+sank	bronx:21
+stay	sank	bronx:21
+bob	sank	bronx:21
+sea	sank	bronx:21
+blew	sank	bronx:21
+stay	bob	sank	bronx:21
+stay	sea	sank	bronx:21
+stay	blew	sank	bronx:21
+bob	sea	sank	bronx:21
+bob	blew	sank	bronx:21
+sea	blew	sank	bronx:21
+stay	bob	sea	sank	bronx:21
+stay	bob	blew	sank	bronx:21
+stay	sea	blew	sank	bronx:21
+bob	sea	blew	sank	bronx:21
+stay	bob	sea	blew	sank	bronx:21
+sank	manhattan:21
+stay	sank	manhattan:21
+bob	sank	manhattan:21
+sea	sank	manhattan:21
+blew	sank	manhattan:21
+bronx	sank	manhattan:21
+stay	bob	sank	manhattan:21
+stay	sea	sank	manhattan:21
+stay	blew	sank	manhattan:21
+stay	bronx	sank	manhattan:21
+bob	sea	sank	manhattan:21
+bob	blew	sank	manhattan:21
+bob	bronx	sank	manhattan:21
+sea	blew	sank	manhattan:21
+sea	bronx	sank	manhattan:21
+blew	bronx	sank	manhattan:21
+stay	bob	sea	sank	manhattan:21
+stay	bob	blew	sank	manhattan:21
+stay	bob	bronx	sank	manhattan:21
+stay	sea	blew	sank	manhattan:21
+stay	sea	bronx	sank	manhattan:21
+stay	blew	bronx	sank	manhattan:21
+bob	sea	blew	sank	manhattan:21
+bob	sea	bronx	sank	manhattan:21
+bob	blew	bronx	sank	manhattan:21
+sea	blew	bronx	sank	manhattan:21
+stay	bob	sea	blew	sank	manhattan:21
+stay	bob	sea	bronx	sank	manhattan:21
+stay	bob	blew	bronx	sank	manhattan:21
+stay	sea	blew	bronx	sank	manhattan:21
+bob	sea	blew	bronx	sank	manhattan:21
+stay	bob	sea	blew	bronx	sank	manhattan:21
+sank	queens:21
+stay	sank	queens:21
+bob	sank	queens:21
+sea	sank	queens:21
+blew	sank	queens:21
+bronx	sank	queens:21
+manhattan	sank	queens:21
+stay	bob	sank	queens:21
+stay	sea	sank	queens:21
+stay	blew	sank	queens:21
+stay	bronx	sank	queens:21
+stay	manhattan	sank	queens:21
+bob	sea	sank	queens:21
+bob	blew	sank	queens:21
+bob	bronx	sank	queens:21
+bob	manhattan	sank	queens:21
+sea	blew	sank	queens:21
+sea	bronx	sank	queens:21
+sea	manhattan	sank	queens:21
+blew	bronx	sank	queens:21
+blew	manhattan	sank	queens:21
+bronx	manhattan	sank	queens:21
+stay	bob	sea	sank	queens:21
+stay	bob	blew	sank	queens:21
+stay	bob	bronx	sank	queens:21
+stay	bob	manhattan	sank	queens:21
+stay	sea	blew	sank	queens:21
+stay	sea	bronx	sank	queens:21
+stay	sea	manhattan	sank	queens:21
+stay	blew	bronx	sank	queens:21
+stay	blew	manhattan	sank	queens:21
+stay	bronx	manhattan	sank	queens:21
+bob	sea	blew	sank	queens:21
+bob	sea	bronx	sank	queens:21
+bob	sea	manhattan	sank	queens:21
+bob	blew	bronx	sank	queens:21
+bob	blew	manhattan	sank	queens:21
+bob	bronx	manhattan	sank	queens:21
+sea	blew	bronx	sank	queens:21
+sea	blew	manhattan	sank	queens:21
+sea	bronx	manhattan	sank	queens:21
+blew	bronx	manhattan	sank	queens:21
+stay	bob	sea	blew	sank	queens:21
+stay	bob	sea	bronx	sank	queens:21
+stay	bob	sea	manhattan	sank	queens:21
+stay	bob	blew	bronx	sank	queens:21
+stay	bob	blew	manhattan	sank	queens:21
+stay	bob	bronx	manhattan	sank	queens:21
+stay	sea	blew	bronx	sank	queens:21
+stay	sea	blew	manhattan	sank	queens:21
+stay	sea	bronx	manhattan	sank	queens:21
+stay	blew	bronx	manhattan	sank	queens:21
+bob	sea	blew	bronx	sank	queens:21
+bob	sea	blew	manhattan	sank	queens:21
+bob	sea	bronx	manhattan	sank	queens:21
+bob	blew	bronx	manhattan	sank	queens:21
+sea	blew	bronx	manhattan	sank	queens:21
+stay	bob	sea	blew	bronx	sank	queens:21
+stay	bob	sea	blew	manhattan	sank	queens:21
+stay	bob	sea	bronx	manhattan	sank	queens:21
+stay	bob	blew	bronx	manhattan	sank	queens:21
+stay	sea	blew	bronx	manhattan	sank	queens:21
+bob	sea	blew	bronx	manhattan	sank	queens:21
+stay	bob	sea	blew	bronx	manhattan	sank	queens:21
+tektronix:21
+tektronix	bob:16
+beaverton	tektronix	bob:16
+stay	tektronix	bob:16
+beaverton	stay	tektronix	bob:16
+tektronix	sea:16
+beaverton	tektronix	sea:16
+stay	tektronix	sea:16
+bob	tektronix	sea:16
+beaverton	stay	tektronix	sea:16
+beaverton	bob	tektronix	sea:16
+stay	bob	tektronix	sea:16
+beaverton	stay	bob	tektronix	sea:16
+tektronix	blew:16
+beaverton	tektronix	blew:16
+stay	tektronix	blew:16
+bob	tektronix	blew:16
+sea	tektronix	blew:16
+beaverton	stay	tektronix	blew:16
+beaverton	bob	tektronix	blew:16
+beaverton	sea	tektronix	blew:16
+stay	bob	tektronix	blew:16
+stay	sea	tektronix	blew:16
+bob	sea	tektronix	blew:16
+beaverton	stay	bob	tektronix	blew:16
+beaverton	stay	sea	tektronix	blew:16
+beaverton	bob	sea	tektronix	blew:16
+stay	bob	sea	tektronix	blew:16
+beaverton	stay	bob	sea	tektronix	blew:16
+tektronix	bronx:16
+beaverton	tektronix	bronx:16
+stay	tektronix	bronx:16
+bob	tektronix	bronx:16
+sea	tektronix	bronx:16
+blew	tektronix	bronx:16
+beaverton	stay	tektronix	bronx:16
+beaverton	bob	tektronix	bronx:16
+beaverton	sea	tektronix	bronx:16
+beaverton	blew	tektronix	bronx:16
+stay	bob	tektronix	bronx:16
+stay	sea	tektronix	bronx:16
+stay	blew	tektronix	bronx:16
+bob	sea	tektronix	bronx:16
+bob	blew	tektronix	bronx:16
+sea	blew	tektronix	bronx:16
+beaverton	stay	bob	tektronix	bronx:16
+beaverton	stay	sea	tektronix	bronx:16
+beaverton	stay	blew	tektronix	bronx:16
+beaverton	bob	sea	tektronix	bronx:16
+beaverton	bob	blew	tektronix	bronx:16
+beaverton	sea	blew	tektronix	bronx:16
+stay	bob	sea	tektronix	bronx:16
+stay	bob	blew	tektronix	bronx:16
+stay	sea	blew	tektronix	bronx:16
+bob	sea	blew	tektronix	bronx:16
+beaverton	stay	bob	sea	tektronix	bronx:16
+beaverton	stay	bob	blew	tektronix	bronx:16
+beaverton	stay	sea	blew	tektronix	bronx:16
+beaverton	bob	sea	blew	tektronix	bronx:16
+stay	bob	sea	blew	tektronix	bronx:16
+beaverton	stay	bob	sea	blew	tektronix	bronx:16
+tektronix	manhattan:16
+beaverton	tektronix	manhattan:16
+stay	tektronix	manhattan:16
+bob	tektronix	manhattan:16
+sea	tektronix	manhattan:16
+blew	tektronix	manhattan:16
+bronx	tektronix	manhattan:16
+beaverton	stay	tektronix	manhattan:16
+beaverton	bob	tektronix	manhattan:16
+beaverton	sea	tektronix	manhattan:16
+beaverton	blew	tektronix	manhattan:16
+beaverton	bronx	tektronix	manhattan:16
+stay	bob	tektronix	manhattan:16
+stay	sea	tektronix	manhattan:16
+stay	blew	tektronix	manhattan:16
+stay	bronx	tektronix	manhattan:16
+bob	sea	tektronix	manhattan:16
+bob	blew	tektronix	manhattan:16
+bob	bronx	tektronix	manhattan:16
+sea	blew	tektronix	manhattan:16
+sea	bronx	tektronix	manhattan:16
+blew	bronx	tektronix	manhattan:16
+beaverton	stay	bob	tektronix	manhattan:16
+beaverton	stay	sea	tektronix	manhattan:16
+beaverton	stay	blew	tektronix	manhattan:16
+beaverton	stay	bronx	tektronix	manhattan:16
+beaverton	bob	sea	tektronix	manhattan:16
+beaverton	bob	blew	tektronix	manhattan:16
+beaverton	bob	bronx	tektronix	manhattan:16
+beaverton	sea	blew	tektronix	manhattan:16
+beaverton	sea	bronx	tektronix	manhattan:16
+beaverton	blew	bronx	tektronix	manhattan:16
+stay	bob	sea	tektronix	manhattan:16
+stay	bob	blew	tektronix	manhattan:16
+stay	bob	bronx	tektronix	manhattan:16
+stay	sea	blew	tektronix	manhattan:16
+stay	sea	bronx	tektronix	manhattan:16
+stay	blew	bronx	tektronix	manhattan:16
+bob	sea	blew	tektronix	manhattan:16
+bob	sea	bronx	tektronix	manhattan:16
+bob	blew	bronx	tektronix	manhattan:16
+sea	blew	bronx	tektronix	manhattan:16
+beaverton	stay	bob	sea	tektronix	manhattan:16
+beaverton	stay	bob	blew	tektronix	manhattan:16
+beaverton	stay	bob	bronx	tektronix	manhattan:16
+beaverton	stay	sea	blew	tektronix	manhattan:16
+beaverton	stay	sea	bronx	tektronix	manhattan:16
+beaverton	stay	blew	bronx	tektronix	manhattan:16
+beaverton	bob	sea	blew	tektronix	manhattan:16
+beaverton	bob	sea	bronx	tektronix	manhattan:16
+beaverton	bob	blew	bronx	tektronix	manhattan:16
+beaverton	sea	blew	bronx	tektronix	manhattan:16
+stay	bob	sea	blew	tektronix	manhattan:16
+stay	bob	sea	bronx	tektronix	manhattan:16
+stay	bob	blew	bronx	tektronix	manhattan:16
+stay	sea	blew	bronx	tektronix	manhattan:16
+bob	sea	blew	bronx	tektronix	manhattan:16
+beaverton	stay	bob	sea	blew	tektronix	manhattan:16
+beaverton	stay	bob	sea	bronx	tektronix	manhattan:16
+beaverton	stay	bob	blew	bronx	tektronix	manhattan:16
+beaverton	stay	sea	blew	bronx	tektronix	manhattan:16
+beaverton	bob	sea	blew	bronx	tektronix	manhattan:16
+stay	bob	sea	blew	bronx	tektronix	manhattan:16
+beaverton	stay	bob	sea	blew	bronx	tektronix	manhattan:16
+tektronix	queens:16
+beaverton	tektronix	queens:16
+stay	tektronix	queens:16
+bob	tektronix	queens:16
+sea	tektronix	queens:16
+blew	tektronix	queens:16
+bronx	tektronix	queens:16
+manhattan	tektronix	queens:16
+beaverton	stay	tektronix	queens:16
+beaverton	bob	tektronix	queens:16
+beaverton	sea	tektronix	queens:16
+beaverton	blew	tektronix	queens:16
+beaverton	bronx	tektronix	queens:16
+beaverton	manhattan	tektronix	queens:16
+stay	bob	tektronix	queens:16
+stay	sea	tektronix	queens:16
+stay	blew	tektronix	queens:16
+stay	bronx	tektronix	queens:16
+stay	manhattan	tektronix	queens:16
+bob	sea	tektronix	queens:16
+bob	blew	tektronix	queens:16
+bob	bronx	tektronix	queens:16
+bob	manhattan	tektronix	queens:16
+sea	blew	tektronix	queens:16
+sea	bronx	tektronix	queens:16
+sea	manhattan	tektronix	queens:16
+blew	bronx	tektronix	queens:16
+blew	manhattan	tektronix	queens:16
+bronx	manhattan	tektronix	queens:16
+beaverton	stay	bob	tektronix	queens:16
+beaverton	stay	sea	tektronix	queens:16
+beaverton	stay	blew	tektronix	queens:16
+beaverton	stay	bronx	tektronix	queens:16
+beaverton	stay	manhattan	tektronix	queens:16
+beaverton	bob	sea	tektronix	queens:16
+beaverton	bob	blew	tektronix	queens:16
+beaverton	bob	bronx	tektronix	queens:16
+beaverton	bob	manhattan	tektronix	queens:16
+beaverton	sea	blew	tektronix	queens:16
+beaverton	sea	bronx	tektronix	queens:16
+beaverton	sea	manhattan	tektronix	queens:16
+beaverton	blew	bronx	tektronix	queens:16
+beaverton	blew	manhattan	tektronix	queens:16
+beaverton	bronx	manhattan	tektronix	queens:16
+stay	bob	sea	tektronix	queens:16
+stay	bob	blew	tektronix	queens:16
+stay	bob	bronx	tektronix	queens:16
+stay	bob	manhattan	tektronix	queens:16
+stay	sea	blew	tektronix	queens:16
+stay	sea	bronx	tektronix	queens:16
+stay	sea	manhattan	tektronix	queens:16
+stay	blew	bronx	tektronix	queens:16
+stay	blew	manhattan	tektronix	queens:16
+stay	bronx	manhattan	tektronix	queens:16
+bob	sea	blew	tektronix	queens:16
+bob	sea	bronx	tektronix	queens:16
+bob	sea	manhattan	tektronix	queens:16
+bob	blew	bronx	tektronix	queens:16
+bob	blew	manhattan	tektronix	queens:16
+bob	bronx	manhattan	tektronix	queens:16
+sea	blew	bronx	tektronix	queens:16
+sea	blew	manhattan	tektronix	queens:16
+sea	bronx	manhattan	tektronix	queens:16
+blew	bronx	manhattan	tektronix	queens:16
+beaverton	stay	bob	sea	tektronix	queens:16
+beaverton	stay	bob	blew	tektronix	queens:16
+beaverton	stay	bob	bronx	tektronix	queens:16
+beaverton	stay	bob	manhattan	tektronix	queens:16
+beaverton	stay	sea	blew	tektronix	queens:16
+beaverton	stay	sea	bronx	tektronix	queens:16
+beaverton	stay	sea	manhattan	tektronix	queens:16
+beaverton	stay	blew	bronx	tektronix	queens:16
+beaverton	stay	blew	manhattan	tektronix	queens:16
+beaverton	stay	bronx	manhattan	tektronix	queens:16
+beaverton	bob	sea	blew	tektronix	queens:16
+beaverton	bob	sea	bronx	tektronix	queens:16
+beaverton	bob	sea	manhattan	tektronix	queens:16
+beaverton	bob	blew	bronx	tektronix	queens:16
+beaverton	bob	blew	manhattan	tektronix	queens:16
+beaverton	bob	bronx	manhattan	tektronix	queens:16
+beaverton	sea	blew	bronx	tektronix	queens:16
+beaverton	sea	blew	manhattan	tektronix	queens:16
+beaverton	sea	bronx	manhattan	tektronix	queens:16
+beaverton	blew	bronx	manhattan	tektronix	queens:16
+stay	bob	sea	blew	tektronix	queens:16
+stay	bob	sea	bronx	tektronix	queens:16
+stay	bob	sea	manhattan	tektronix	queens:16
+stay	bob	blew	bronx	tektronix	queens:16
+stay	bob	blew	manhattan	tektronix	queens:16
+stay	bob	bronx	manhattan	tektronix	queens:16
+stay	sea	blew	bronx	tektronix	queens:16
+stay	sea	blew	manhattan	tektronix	queens:16
+stay	sea	bronx	manhattan	tektronix	queens:16
+stay	blew	bronx	manhattan	tektronix	queens:16
+bob	sea	blew	bronx	tektronix	queens:16
+bob	sea	blew	manhattan	tektronix	queens:16
+bob	sea	bronx	manhattan	tektronix	queens:16
+bob	blew	bronx	manhattan	tektronix	queens:16
+sea	blew	bronx	manhattan	tektronix	queens:16
+beaverton	stay	bob	sea	blew	tektronix	queens:16
+beaverton	stay	bob	sea	bronx	tektronix	queens:16
+beaverton	stay	bob	sea	manhattan	tektronix	queens:16
+beaverton	stay	bob	blew	bronx	tektronix	queens:16
+beaverton	stay	bob	blew	manhattan	tektronix	queens:16
+beaverton	stay	bob	bronx	manhattan	tektronix	queens:16
+beaverton	stay	sea	blew	bronx	tektronix	queens:16
+beaverton	stay	sea	blew	manhattan	tektronix	queens:16
+beaverton	stay	sea	bronx	manhattan	tektronix	queens:16
+beaverton	stay	blew	bronx	manhattan	tektronix	queens:16
+beaverton	bob	sea	blew	bronx	tektronix	queens:16
+beaverton	bob	sea	blew	manhattan	tektronix	queens:16
+beaverton	bob	sea	bronx	manhattan	tektronix	queens:16
+beaverton	bob	blew	bronx	manhattan	tektronix	queens:16
+beaverton	sea	blew	bronx	manhattan	tektronix	queens:16
+stay	bob	sea	blew	bronx	tektronix	queens:16
+stay	bob	sea	blew	manhattan	tektronix	queens:16
+stay	bob	sea	bronx	manhattan	tektronix	queens:16
+stay	bob	blew	bronx	manhattan	tektronix	queens:16
+stay	sea	blew	bronx	manhattan	tektronix	queens:16
+bob	sea	blew	bronx	manhattan	tektronix	queens:16
+beaverton	stay	bob	sea	blew	bronx	tektronix	queens:16
+beaverton	stay	bob	sea	blew	manhattan	tektronix	queens:16
+beaverton	stay	bob	sea	bronx	manhattan	tektronix	queens:16
+beaverton	stay	bob	blew	bronx	manhattan	tektronix	queens:16
+beaverton	stay	sea	blew	bronx	manhattan	tektronix	queens:16
+beaverton	bob	sea	blew	bronx	manhattan	tektronix	queens:16
+stay	bob	sea	blew	bronx	manhattan	tektronix	queens:16
+beaverton	stay	bob	sea	blew	bronx	manhattan	tektronix	queens:16
+tektronix	sank:16
+beaverton	tektronix	sank:16
+stay	tektronix	sank:16
+bob	tektronix	sank:16
+sea	tektronix	sank:16
+blew	tektronix	sank:16
+bronx	tektronix	sank:16
+manhattan	tektronix	sank:16
+queens	tektronix	sank:16
+beaverton	stay	tektronix	sank:16
+beaverton	bob	tektronix	sank:16
+beaverton	sea	tektronix	sank:16
+beaverton	blew	tektronix	sank:16
+beaverton	bronx	tektronix	sank:16
+beaverton	manhattan	tektronix	sank:16
+beaverton	queens	tektronix	sank:16
+stay	bob	tektronix	sank:16
+stay	sea	tektronix	sank:16
+stay	blew	tektronix	sank:16
+stay	bronx	tektronix	sank:16
+stay	manhattan	tektronix	sank:16
+stay	queens	tektronix	sank:16
+bob	sea	tektronix	sank:16
+bob	blew	tektronix	sank:16
+bob	bronx	tektronix	sank:16
+bob	manhattan	tektronix	sank:16
+bob	queens	tektronix	sank:16
+sea	blew	tektronix	sank:16
+sea	bronx	tektronix	sank:16
+sea	manhattan	tektronix	sank:16
+sea	queens	tektronix	sank:16
+blew	bronx	tektronix	sank:16
+blew	manhattan	tektronix	sank:16
+blew	queens	tektronix	sank:16
+bronx	manhattan	tektronix	sank:16
+bronx	queens	tektronix	sank:16
+manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	tektronix	sank:16
+beaverton	stay	sea	tektronix	sank:16
+beaverton	stay	blew	tektronix	sank:16
+beaverton	stay	bronx	tektronix	sank:16
+beaverton	stay	manhattan	tektronix	sank:16
+beaverton	stay	queens	tektronix	sank:16
+beaverton	bob	sea	tektronix	sank:16
+beaverton	bob	blew	tektronix	sank:16
+beaverton	bob	bronx	tektronix	sank:16
+beaverton	bob	manhattan	tektronix	sank:16
+beaverton	bob	queens	tektronix	sank:16
+beaverton	sea	blew	tektronix	sank:16
+beaverton	sea	bronx	tektronix	sank:16
+beaverton	sea	manhattan	tektronix	sank:16
+beaverton	sea	queens	tektronix	sank:16
+beaverton	blew	bronx	tektronix	sank:16
+beaverton	blew	manhattan	tektronix	sank:16
+beaverton	blew	queens	tektronix	sank:16
+beaverton	bronx	manhattan	tektronix	sank:16
+beaverton	bronx	queens	tektronix	sank:16
+beaverton	manhattan	queens	tektronix	sank:16
+stay	bob	sea	tektronix	sank:16
+stay	bob	blew	tektronix	sank:16
+stay	bob	bronx	tektronix	sank:16
+stay	bob	manhattan	tektronix	sank:16
+stay	bob	queens	tektronix	sank:16
+stay	sea	blew	tektronix	sank:16
+stay	sea	bronx	tektronix	sank:16
+stay	sea	manhattan	tektronix	sank:16
+stay	sea	queens	tektronix	sank:16
+stay	blew	bronx	tektronix	sank:16
+stay	blew	manhattan	tektronix	sank:16
+stay	blew	queens	tektronix	sank:16
+stay	bronx	manhattan	tektronix	sank:16
+stay	bronx	queens	tektronix	sank:16
+stay	manhattan	queens	tektronix	sank:16
+bob	sea	blew	tektronix	sank:16
+bob	sea	bronx	tektronix	sank:16
+bob	sea	manhattan	tektronix	sank:16
+bob	sea	queens	tektronix	sank:16
+bob	blew	bronx	tektronix	sank:16
+bob	blew	manhattan	tektronix	sank:16
+bob	blew	queens	tektronix	sank:16
+bob	bronx	manhattan	tektronix	sank:16
+bob	bronx	queens	tektronix	sank:16
+bob	manhattan	queens	tektronix	sank:16
+sea	blew	bronx	tektronix	sank:16
+sea	blew	manhattan	tektronix	sank:16
+sea	blew	queens	tektronix	sank:16
+sea	bronx	manhattan	tektronix	sank:16
+sea	bronx	queens	tektronix	sank:16
+sea	manhattan	queens	tektronix	sank:16
+blew	bronx	manhattan	tektronix	sank:16
+blew	bronx	queens	tektronix	sank:16
+blew	manhattan	queens	tektronix	sank:16
+bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	sea	tektronix	sank:16
+beaverton	stay	bob	blew	tektronix	sank:16
+beaverton	stay	bob	bronx	tektronix	sank:16
+beaverton	stay	bob	manhattan	tektronix	sank:16
+beaverton	stay	bob	queens	tektronix	sank:16
+beaverton	stay	sea	blew	tektronix	sank:16
+beaverton	stay	sea	bronx	tektronix	sank:16
+beaverton	stay	sea	manhattan	tektronix	sank:16
+beaverton	stay	sea	queens	tektronix	sank:16
+beaverton	stay	blew	bronx	tektronix	sank:16
+beaverton	stay	blew	manhattan	tektronix	sank:16
+beaverton	stay	blew	queens	tektronix	sank:16
+beaverton	stay	bronx	manhattan	tektronix	sank:16
+beaverton	stay	bronx	queens	tektronix	sank:16
+beaverton	stay	manhattan	queens	tektronix	sank:16
+beaverton	bob	sea	blew	tektronix	sank:16
+beaverton	bob	sea	bronx	tektronix	sank:16
+beaverton	bob	sea	manhattan	tektronix	sank:16
+beaverton	bob	sea	queens	tektronix	sank:16
+beaverton	bob	blew	bronx	tektronix	sank:16
+beaverton	bob	blew	manhattan	tektronix	sank:16
+beaverton	bob	blew	queens	tektronix	sank:16
+beaverton	bob	bronx	manhattan	tektronix	sank:16
+beaverton	bob	bronx	queens	tektronix	sank:16
+beaverton	bob	manhattan	queens	tektronix	sank:16
+beaverton	sea	blew	bronx	tektronix	sank:16
+beaverton	sea	blew	manhattan	tektronix	sank:16
+beaverton	sea	blew	queens	tektronix	sank:16
+beaverton	sea	bronx	manhattan	tektronix	sank:16
+beaverton	sea	bronx	queens	tektronix	sank:16
+beaverton	sea	manhattan	queens	tektronix	sank:16
+beaverton	blew	bronx	manhattan	tektronix	sank:16
+beaverton	blew	bronx	queens	tektronix	sank:16
+beaverton	blew	manhattan	queens	tektronix	sank:16
+beaverton	bronx	manhattan	queens	tektronix	sank:16
+stay	bob	sea	blew	tektronix	sank:16
+stay	bob	sea	bronx	tektronix	sank:16
+stay	bob	sea	manhattan	tektronix	sank:16
+stay	bob	sea	queens	tektronix	sank:16
+stay	bob	blew	bronx	tektronix	sank:16
+stay	bob	blew	manhattan	tektronix	sank:16
+stay	bob	blew	queens	tektronix	sank:16
+stay	bob	bronx	manhattan	tektronix	sank:16
+stay	bob	bronx	queens	tektronix	sank:16
+stay	bob	manhattan	queens	tektronix	sank:16
+stay	sea	blew	bronx	tektronix	sank:16
+stay	sea	blew	manhattan	tektronix	sank:16
+stay	sea	blew	queens	tektronix	sank:16
+stay	sea	bronx	manhattan	tektronix	sank:16
+stay	sea	bronx	queens	tektronix	sank:16
+stay	sea	manhattan	queens	tektronix	sank:16
+stay	blew	bronx	manhattan	tektronix	sank:16
+stay	blew	bronx	queens	tektronix	sank:16
+stay	blew	manhattan	queens	tektronix	sank:16
+stay	bronx	manhattan	queens	tektronix	sank:16
+bob	sea	blew	bronx	tektronix	sank:16
+bob	sea	blew	manhattan	tektronix	sank:16
+bob	sea	blew	queens	tektronix	sank:16
+bob	sea	bronx	manhattan	tektronix	sank:16
+bob	sea	bronx	queens	tektronix	sank:16
+bob	sea	manhattan	queens	tektronix	sank:16
+bob	blew	bronx	manhattan	tektronix	sank:16
+bob	blew	bronx	queens	tektronix	sank:16
+bob	blew	manhattan	queens	tektronix	sank:16
+bob	bronx	manhattan	queens	tektronix	sank:16
+sea	blew	bronx	manhattan	tektronix	sank:16
+sea	blew	bronx	queens	tektronix	sank:16
+sea	blew	manhattan	queens	tektronix	sank:16
+sea	bronx	manhattan	queens	tektronix	sank:16
+blew	bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	sea	blew	tektronix	sank:16
+beaverton	stay	bob	sea	bronx	tektronix	sank:16
+beaverton	stay	bob	sea	manhattan	tektronix	sank:16
+beaverton	stay	bob	sea	queens	tektronix	sank:16
+beaverton	stay	bob	blew	bronx	tektronix	sank:16
+beaverton	stay	bob	blew	manhattan	tektronix	sank:16
+beaverton	stay	bob	blew	queens	tektronix	sank:16
+beaverton	stay	bob	bronx	manhattan	tektronix	sank:16
+beaverton	stay	bob	bronx	queens	tektronix	sank:16
+beaverton	stay	bob	manhattan	queens	tektronix	sank:16
+beaverton	stay	sea	blew	bronx	tektronix	sank:16
+beaverton	stay	sea	blew	manhattan	tektronix	sank:16
+beaverton	stay	sea	blew	queens	tektronix	sank:16
+beaverton	stay	sea	bronx	manhattan	tektronix	sank:16
+beaverton	stay	sea	bronx	queens	tektronix	sank:16
+beaverton	stay	sea	manhattan	queens	tektronix	sank:16
+beaverton	stay	blew	bronx	manhattan	tektronix	sank:16
+beaverton	stay	blew	bronx	queens	tektronix	sank:16
+beaverton	stay	blew	manhattan	queens	tektronix	sank:16
+beaverton	stay	bronx	manhattan	queens	tektronix	sank:16
+beaverton	bob	sea	blew	bronx	tektronix	sank:16
+beaverton	bob	sea	blew	manhattan	tektronix	sank:16
+beaverton	bob	sea	blew	queens	tektronix	sank:16
+beaverton	bob	sea	bronx	manhattan	tektronix	sank:16
+beaverton	bob	sea	bronx	queens	tektronix	sank:16
+beaverton	bob	sea	manhattan	queens	tektronix	sank:16
+beaverton	bob	blew	bronx	manhattan	tektronix	sank:16
+beaverton	bob	blew	bronx	queens	tektronix	sank:16
+beaverton	bob	blew	manhattan	queens	tektronix	sank:16
+beaverton	bob	bronx	manhattan	queens	tektronix	sank:16
+beaverton	sea	blew	bronx	manhattan	tektronix	sank:16
+beaverton	sea	blew	bronx	queens	tektronix	sank:16
+beaverton	sea	blew	manhattan	queens	tektronix	sank:16
+beaverton	sea	bronx	manhattan	queens	tektronix	sank:16
+beaverton	blew	bronx	manhattan	queens	tektronix	sank:16
+stay	bob	sea	blew	bronx	tektronix	sank:16
+stay	bob	sea	blew	manhattan	tektronix	sank:16
+stay	bob	sea	blew	queens	tektronix	sank:16
+stay	bob	sea	bronx	manhattan	tektronix	sank:16
+stay	bob	sea	bronx	queens	tektronix	sank:16
+stay	bob	sea	manhattan	queens	tektronix	sank:16
+stay	bob	blew	bronx	manhattan	tektronix	sank:16
+stay	bob	blew	bronx	queens	tektronix	sank:16
+stay	bob	blew	manhattan	queens	tektronix	sank:16
+stay	bob	bronx	manhattan	queens	tektronix	sank:16
+stay	sea	blew	bronx	manhattan	tektronix	sank:16
+stay	sea	blew	bronx	queens	tektronix	sank:16
+stay	sea	blew	manhattan	queens	tektronix	sank:16
+stay	sea	bronx	manhattan	queens	tektronix	sank:16
+stay	blew	bronx	manhattan	queens	tektronix	sank:16
+bob	sea	blew	bronx	manhattan	tektronix	sank:16
+bob	sea	blew	bronx	queens	tektronix	sank:16
+bob	sea	blew	manhattan	queens	tektronix	sank:16
+bob	sea	bronx	manhattan	queens	tektronix	sank:16
+bob	blew	bronx	manhattan	queens	tektronix	sank:16
+sea	blew	bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	sea	blew	bronx	tektronix	sank:16
+beaverton	stay	bob	sea	blew	manhattan	tektronix	sank:16
+beaverton	stay	bob	sea	blew	queens	tektronix	sank:16
+beaverton	stay	bob	sea	bronx	manhattan	tektronix	sank:16
+beaverton	stay	bob	sea	bronx	queens	tektronix	sank:16
+beaverton	stay	bob	sea	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	blew	bronx	manhattan	tektronix	sank:16
+beaverton	stay	bob	blew	bronx	queens	tektronix	sank:16
+beaverton	stay	bob	blew	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	sea	blew	bronx	manhattan	tektronix	sank:16
+beaverton	stay	sea	blew	bronx	queens	tektronix	sank:16
+beaverton	stay	sea	blew	manhattan	queens	tektronix	sank:16
+beaverton	stay	sea	bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	blew	bronx	manhattan	queens	tektronix	sank:16
+beaverton	bob	sea	blew	bronx	manhattan	tektronix	sank:16
+beaverton	bob	sea	blew	bronx	queens	tektronix	sank:16
+beaverton	bob	sea	blew	manhattan	queens	tektronix	sank:16
+beaverton	bob	sea	bronx	manhattan	queens	tektronix	sank:16
+beaverton	bob	blew	bronx	manhattan	queens	tektronix	sank:16
+beaverton	sea	blew	bronx	manhattan	queens	tektronix	sank:16
+stay	bob	sea	blew	bronx	manhattan	tektronix	sank:16
+stay	bob	sea	blew	bronx	queens	tektronix	sank:16
+stay	bob	sea	blew	manhattan	queens	tektronix	sank:16
+stay	bob	sea	bronx	manhattan	queens	tektronix	sank:16
+stay	bob	blew	bronx	manhattan	queens	tektronix	sank:16
+stay	sea	blew	bronx	manhattan	queens	tektronix	sank:16
+bob	sea	blew	bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	sea	blew	bronx	manhattan	tektronix	sank:16
+beaverton	stay	bob	sea	blew	bronx	queens	tektronix	sank:16
+beaverton	stay	bob	sea	blew	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	sea	bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	blew	bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	sea	blew	bronx	manhattan	queens	tektronix	sank:16
+beaverton	bob	sea	blew	bronx	manhattan	queens	tektronix	sank:16
+stay	bob	sea	blew	bronx	manhattan	queens	tektronix	sank:16
+beaverton	stay	bob	sea	blew	bronx	manhattan	queens	tektronix	sank:16
+tektronix	stay:17
+beaverton	tektronix	stay:17
+tektronix	beaverton:21
+church:21
+merely:21
+merely	level:10
+assuming:21
+fine:21
+immoral:21
+scientific:21
+uucp:21
+uucp	2000:11
+uucp	2000	dwyer:10
+uucp	dwyer:19
+instead:21
+attempt:21
+attempt	present:9
+basically:21
+seriously:21
+past:21
+supposed:21
+simple:21
+later:21
+follows:22
+believing:22
+private:22
+private	cheers:18
+possibly:22
+speak:22
+goes:22
+ancient:22
+alone:22
+legal:22
+systems:22
+lives:22
+neither:22
+neither	although:9
+neither	nor:11
+ok:22
+public:22
+mention:22
+hear:22
+assumption:22
+term:22
+23:22
+surely:22
+2000:22
+asd:22
+asd	fido:22
+93:22
+ignore:22
+won:22
+open:22
+ago:22
+28:22
+braunschweig:23
+braunschweig	technical:23
+clearly:23
+imagine:23
+imagine	already:9
+accepted:23
+happy:23
+century:23
+cheers:23
+include:23
+large:23
+small:23
+population:23
+blew:23
+blew	stay:21
+blew	bob:21
+stay	blew	bob:21
+blew	sea:21
+stay	blew	sea:21
+bob	blew	sea:21
+stay	bob	blew	sea:21
+concept:23
+usually:23
+kind:23
+personal:23
+interesting:23
+country:23
+present:23
+11:23
+18:23
+fall:24
+jbrown:24
+jbrown	self:10
+lack:24
+lack	nor:9
+poor:24
+authority:24
+yourself:24
+couldn:24
+users:24
+users	tin:20
+unix	users	tin:20
+users	bil:20
+unix	users	bil:20
+tin	users	bil:20
+unix	tin	users	bil:20
+users	conner:20
+unix	users	conner:20
+tin	users	conner:20
+bil	users	conner:20
+unix	tin	users	conner:20
+unix	bil	users	conner:20
+tin	bil	users	conner:20
+unix	tin	bil	users	conner:20
+users	unix:22
+full:24
+until:24
+reference:24
+college:24
+college	date:10
+wish:24
+message:24
+talk:24
+wonder:24
+obvious:24
+takes:24
+b64635:24
+b64635	snm6394:13
+student	b64635	snm6394:13
+b64635	student:24
+reserve:24
+reserve	snm6394:13
+student	reserve	snm6394:13
+b64635	reserve	snm6394:13
+student	b64635	reserve	snm6394:13
+reserve	student:24
+reserve	b64635:24
+student	reserve	b64635:24
+instance:24
+1993apr5:25
+left:25
+admit:25
+inimitable:25
+inimitable	physics:9
+department:25
+department	physics:16
+due:25
+allowed:25
+killed:25
+love:25
+love	snm6394:9
+chance:25
+today:25
+sea:25
+sea	stay:21
+sea	bob:21
+stay	sea	bob:21
+tells:25
+tells	student:9
+change:25
+fido:25
+self:26
+self	nor:9
+hold:26
+second:26
+unix:26
+unix	tin:20
+unix	bil:20
+tin	unix	bil:20
+unix	conner:20
+tin	unix	conner:20
+bil	unix	conner:20
+tin	bil	unix	conner:20
+situation:26
+thread:26
+19:26
+already:27
+especially:27
+technical:27
+become:27
+nor:27
+oh:27
+within:27
+level:27
+level	already:9
+otherwise:27
+unless:27
+unless	nor:10
+posts:27
+24:27
+stuff:27
+stuff	deleted:12
+wasn:27
+bob:27
+bob	stay:22
+heard:27
+next:28
+although:28
+effect:28
+bil:28
+bil	tin:21
+conner:28
+conner	tin:21
+bil	conner	tin:21
+conner	bil:28
+james:29
+21:29
+big:29
+physics:29
+apply:29
+14:29
+ones:29
+tin:29
+student:29
+student	snm6394:13
+deleted:30
+comes:30
+getting:30
+date:31
+stay:32
+snm6394:32
